@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From ITI Main line to Area Service.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From ITI Main line to Area Service</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6394774365,13.0140941808,0 77.64098380119999,13.0141495905,0 77.64101612,13.014150779,0 77.641028924,13.0141512503,0 77.6410484415,13.0141519684,0 77.6410880877,13.0141534265,0 77.6413588779,13.0141512834,0 77.6415174123,13.0141417591,0 77.6417618661,13.014120813,0 77.6425188082,13.013999733,0 77.64251841310001,13.0139986105,0 77.6425174247,13.013951248,0 77.6425119716,13.0138218886,0 77.6425080346,13.0137071896,0 77.64272927490001,13.0128054508,0 77.6429144474,13.0118096866,0 77.6433921308,13.0095370501,0 77.64335808609999,13.0094828788,0 77.6433699654,13.0094325773,0 77.6433990181,13.0094021008,0 77.64345700600001,13.0094008916,0 77.64348283459999,13.0093329816,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

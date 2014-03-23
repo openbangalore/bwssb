@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from Pump Station CLR GLR.kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Oulet from Pump Station CLR GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6078443877,12.9651348635,0 77.6079114283,12.9651394629,0 77.607935564,12.9647490301,0 77.6079663518,12.964735908,0 77.607937777,12.9647132312,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Nandini Layout Tank.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Nandini Layout Tank</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5543567453,13.0121156033,0 77.55426998510001,13.0135409938,0 77.5540117779,13.015162846,0 77.5535555077,13.0178240242,0 77.5532887098,13.018722262,0 77.5530492127,13.0194342185,0 77.55278212010001,13.0200397905,0 77.5519416696,13.0214918113,0 77.5516693087,13.0219228527,0 77.5514732468,13.02215416,0 77.55056909779999,13.0227060607,0 77.54986137269999,13.0231255649,0 77.5490213679,13.0236270544,0 77.5486142428,13.0238624952,0 77.5466485604,13.0250071208,0 77.54437544939999,13.0263395678,0 77.54416286119999,13.0264558105,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>inlet to Jayanagara OHT (Supply to Jayanagar Area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>inlet to Jayanagara OHT (Supply to Jayanagar Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5800852759,12.9308294575,0 77.5839652266,12.930777328,0 77.584988311,12.9307348148,0 77.5849890761,12.9303760789,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

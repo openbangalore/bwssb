@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from SGK GLR via Kamalanagar Hosahalli Pump House Inlet to Magadi Road GLR-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from SGK GLR via Kamalanagar Hosahalli Pump House Inlet to Magadi Road GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.56159960790001,12.9757293939,0 77.5615903839,12.9757295986,0 77.561533938,12.9757308503,0 77.56139374049999,12.9757339607,0 77.5610448959,12.9757417,0 77.5605182644,12.9757616292,0 77.5599902785,12.9757829113,0 77.5595250697,12.9757955319,0 77.5590775363,12.9757963547,0 77.55906339329999,12.9758200127,0 77.5590486405,12.9757964078,0 77.5590228417,12.9757964549,0 77.5587235738,12.9757943081,0 77.55870780940001,12.9757941949,0 77.5584958792,12.9757842174,0 77.5579865026,12.9757543827,0 77.5575044837,12.9757269584,0 77.5570443015,12.9756966371,0 77.5565485899,12.9756666642,0 77.5561366556,12.9756524795,0 77.5561293219,12.9756522273,0 77.5560338702,12.9756489401,0 77.5558733004,12.9756432647,0 77.55558886980001,12.9756332104,0 77.55506599269999,12.975619585,0 77.5545772772,12.9756056239,0 77.55444054500001,12.9755989255,0 77.5540589908,12.9755731873,0 77.55371714650001,12.9755551013,0 77.55355781260001,12.9755432632,0 77.5534641365,12.9755314399,0 77.5533618452,12.9755237937,0 77.55334668499999,12.975520972,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

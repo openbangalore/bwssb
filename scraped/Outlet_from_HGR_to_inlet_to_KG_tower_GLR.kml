@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from HGR to inlet to KG tower GLR.kml</name>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from HGR to inlet to KG tower GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5895916865,12.9879700716,0 77.5890446662,12.9881069931,0 77.5888364101,12.9903559966,0 77.5885089872,12.9905146326,0 77.58600353289999,12.9910176603,0 77.5856262474,12.9910692236,0 77.5854331804,12.9924336476,0 77.58522359600001,12.9933799241,0 77.58506510789999,12.9945527757,0 77.58470427029999,12.9961937611,0 77.5841680507,12.9985535992,0 77.5840247152,13.0000131431,0 77.584083425,13.0021519268,0 77.58410118080001,13.0026895799,0 77.5841313137,13.0044222872,0 77.5839826022,13.0065392323,0 77.58382430410001,13.0089072603,0 77.58374580170001,13.0095653898,0 77.5837809482,13.010604844,0 77.5837868915,13.0111784699,0 77.58230100980001,13.0112888828,0 77.5819233214,13.0113045948,0 77.58178320339999,13.0112996828,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

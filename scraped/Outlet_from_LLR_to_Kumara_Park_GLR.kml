@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from LLR to Kumara Park GLR.kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from LLR to Kumara Park GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5849281056,12.983685266,0 77.5848184263,12.9838891674,0 77.5843722827,12.983986788,0 77.58378213189999,12.9842119113,0 77.5834479907,12.9843303422,0 77.58264398839999,12.9844150736,0 77.5824877835,12.9844440329,0 77.5821616085,12.9847926009,0 77.58161351939999,12.9853023335,0 77.5813654734,12.9856391619,0 77.581073225,12.9860257616,0 77.5803184274,12.9876283405,0 77.57925658070001,12.9898095131,0 77.5782269721,12.9902418016,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

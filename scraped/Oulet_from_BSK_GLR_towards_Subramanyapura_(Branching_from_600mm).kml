@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from BSK GLR towards Subramanyapura (Branching from 600mm).kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet from BSK GLR towards Subramanyapura (Branching from 600mm)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5428633871,12.9058406466,0 77.5431389174,12.9056239077,0 77.5432897366,12.9053571013,0 77.5433102635,12.9052182561,0 77.54369935530001,12.9048989314,0 77.54400007,12.9046462312,0 77.5442515674,12.9043246322,0 77.54451263759999,12.903945877,0 77.54464728320001,12.9036968758,0 77.54470351090001,12.9034740178,0 77.5446674409,12.9032807436,0 77.54460767729999,12.9029131982,0 77.5445602416,12.9025598753,0 77.5444289977,12.9021117508,0 77.5442171273,12.9014014627,0 77.5441293359,12.9011537116,0 77.5438891151,12.9000492764,0 77.54391524250001,12.8987773091,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From HBR Twin Tank (450mm dia)to Area Srevice.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From HBR Twin Tank (450mm dia)to Area Srevice</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.63647962740001,13.0263074383,0 77.63679461389999,13.027852609,0 77.63667750160001,13.027928195,0 77.636141526,13.0279880785,0 77.63575446039999,13.0281311123,0 77.6353997026,13.0282508916,0 77.6349577435,13.0284257844,0 77.6344307019,13.0285506823,0 77.6339013322,13.0286712449,0 77.63363761479999,13.0287786861,0 77.6339146485,13.0290791883,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

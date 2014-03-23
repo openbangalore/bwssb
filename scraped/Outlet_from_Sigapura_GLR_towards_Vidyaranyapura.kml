@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Sigapura GLR towards Vidyaranyapura.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Sigapura GLR towards Vidyaranyapura</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.54124130300001,13.0830960108,0 77.5412259339,13.0829288331,0 77.54124820929999,13.082913315,0 77.54121781790001,13.0828983157,0 77.5416546787,13.0828863637,0 77.5421109966,13.0828694385,0 77.54241831730001,13.0828759723,0 77.5427155662,13.0828515297,0 77.5429556316,13.0827200817,0 77.54343752680001,13.0826292774,0 77.5437128552,13.0826074402,0 77.5440680719,13.0827664863,0 77.5446735723,13.0828393993,0 77.5453896967,13.0825239735,0 77.5456857664,13.0823847996,0 77.5463908501,13.0821818295,0 77.54758688859999,13.0818210253,0 77.54794179309999,13.0817123436,0 77.54801261190001,13.0816748321,0 77.5480396939,13.0815982351,0 77.5480797603,13.0816598267,0 77.5482697671,13.0816407396,0 77.548402325,13.0817025372,0 77.5485573772,13.081660359,0 77.5489035976,13.0820140276,0 77.5491015878,13.0821199274,0 77.5498152686,13.0821606845,0 77.5501507128,13.0821752978,0 77.55014972959999,13.0820796914,0 77.5502827888,13.0819767845,0 77.551043697,13.0818676715,0 77.5521938624,13.0816710431,0 77.55289338110001,13.0815207001,0 77.5533008637,13.0814270289,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

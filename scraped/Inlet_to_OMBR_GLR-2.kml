@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to OMBR GLR-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to OMBR GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6509143636,13.0126883648,0 77.65085821770001,13.012718822,0 77.6506075171,13.012854818,0 77.6501681176,13.0130827965,0 77.64983420910001,13.0132595019,0 77.6496374164,13.0134099719,0 77.6470596784,13.0121089382,0 77.6439791632,13.0098393236,0 77.6378091906,13.0057196451,0 77.6362144248,13.0041890887,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

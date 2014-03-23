@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Machallibeta(Branching from 450mm)-2.kml</name>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from Machallibeta(Branching from 450mm)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.61926597350001,13.0214372529,0 77.61943378540001,13.0219995112,0 77.6195027273,13.0226441931,0 77.6195543683,13.0233822712,0 77.6196584051,13.0242345533,0 77.61953065989999,13.0242573575,0 77.6195871644,13.0247623328,0 77.6197959548,13.0254916507,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

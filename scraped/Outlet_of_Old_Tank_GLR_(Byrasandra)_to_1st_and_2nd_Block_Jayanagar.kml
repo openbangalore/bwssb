@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet of Old Tank GLR (Byrasandra) to 1st and 2nd Block Jayanagar.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet of Old Tank GLR (Byrasandra) to 1st and 2nd Block Jayanagar</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5887902381,12.9361428201,0 77.5885268298,12.9359528506,0 77.58746675650001,12.9355145915,0 77.5869413656,12.935827665,0 77.5866733865,12.9360058582,0 77.58649773000001,12.9363262637,0 77.58640221180001,12.9364082272,0 77.58600773480001,12.9366011773,0 77.5858065183,12.936578868,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

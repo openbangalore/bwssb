@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from CJF Inlet to Jayamahal OHT(Bracnch from 600mm).kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from CJF Inlet to Jayamahal OHT(Bracnch from 600mm)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.59950789920001,12.9998385417,0 77.5995342846,12.9997392581,0 77.5996511606,12.9996967558,0 77.59957789249999,12.9996312118,0 77.5997935943,12.9994698141,0 77.600295428,12.9985038755,0 77.6004773292,12.9981817494,0 77.60062667450001,12.997893414,0 77.6006979269,12.9977134256,0 77.6000621675,12.9975225918,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

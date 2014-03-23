@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Kumarsway Layout GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Kumarsway Layout GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.56212894950001,12.9099534947,0 77.5621525015,12.9099487465,0 77.5625028691,12.9098741627,0 77.5624996575,12.9098414438,0 77.56249585880001,12.9098076014,0 77.56249018379999,12.9097590962,0 77.5624857751,12.9097218718,0 77.5624813548,12.9096835181,0 77.56247755610001,12.9096496757,0 77.56247315890001,12.9096135805,0 77.5624013531,12.9090067088,0 77.56240764970001,12.9090032591,0 77.56241274920001,12.9089953038,0 77.56241211610001,12.9089896634,0 77.5624022395,12.9089807257,0 77.5624017669,12.9089626339,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

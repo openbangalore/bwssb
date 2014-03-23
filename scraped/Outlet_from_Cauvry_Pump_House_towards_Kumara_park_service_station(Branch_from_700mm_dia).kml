@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Cauvry Pump House towards Kumara park service station(Branch from 700mm dia).kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Cauvry Pump House towards Kumara park service station(Branch from 700mm dia)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5844295392,12.9962056184,0 77.5843096437,12.9961719431,0 77.5835287637,12.9959526141,0 77.5830288005,12.9956922588,0 77.582512768,12.9952922261,0 77.5819008883,12.9944628804,0 77.58064360829999,12.9927435612,0 77.58029431590001,12.9922020292,0 77.5800708094,12.9918026686,0 77.5798980428,12.9913597771,0 77.5795933663,12.9908895112,0 77.57878252490001,12.9895565677,0 77.5779131243,12.98821703,0 77.5778095007,12.9880961495,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

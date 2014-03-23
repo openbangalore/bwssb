@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from GKVK  Inlet To BIAL Sump.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from GKVK  Inlet To BIAL Sump</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5594387443,13.0898329703,0 77.559826806,13.0898649747,0 77.55956544670001,13.0921838505,0 77.5604956582,13.0929992974,0 77.5613596696,13.0937795418,0 77.5615308811,13.0940646865,0 77.5618799051,13.0952731411,0 77.5621259751,13.0957224773,0 77.5628638944,13.097041802,0 77.5630949671,13.0974554301,0 77.5633098112,13.0973612642,0 77.56413289939999,13.0973662251,0 77.5648224519,13.0975458141,0 77.5665650861,13.0976862333,0 77.5681906782,13.0978278065,0 77.56980149109999,13.0979551742,0 77.57037851290001,13.0979828858,0 77.5711506257,13.0981281684,0 77.57211293180001,13.0982715506,0 77.5733588838,13.0984885888,0 77.57408203209999,13.0986152279,0 77.57547966190001,13.0988785475,0 77.57647690330001,13.0990980546,0 77.57709823880001,13.0992830709,0 77.5785510099,13.0996892422,0 77.580473496,13.1002389032,0 77.5812659703,13.1004652209,0 77.5839390164,13.1011961717,0 77.5855383553,13.1016247331,0 77.5864508575,13.1020183476,0 77.5866150735,13.1019808442,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

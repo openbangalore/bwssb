@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from SGK GLR via Kamalanagar Hosahalli Pump House Inlet to Magadi Road GLR-4.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from SGK GLR via Kamalanagar Hosahalli Pump House Inlet to Magadi Road GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.562160283,12.9754526176,0 77.56191286710001,12.9755473078,0 77.5617381154,12.9757030461,0 77.5617277203,12.9757123104,0 77.56161522710001,12.9757168573,0 77.56159004910001,12.9757178741,0 77.5615557017,12.9757177725,0 77.5615389614,12.9757185238,0 77.5615342036,12.9757187378,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

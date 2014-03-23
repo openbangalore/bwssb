@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet from HGR GLR (9 MG) to LLR-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet from HGR GLR (9 MG) to LLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5853449208,12.9836556807,0 77.5853467882,12.9836692137,0 77.58534802139999,12.9836771066,0 77.58565629730001,12.983755349,0 77.5860789516,12.9838697196,0 77.5860251897,12.9840159342,0 77.5863913654,12.9841252198,0 77.5866165978,12.9841907358,0 77.5870745591,12.9843228219,0 77.5875492516,12.9844581284,0 77.58755617200001,12.9844591888,0 77.58772005100001,12.9844936944,0 77.58777665869999,12.9845111994,0 77.58798943630001,12.9845971656,0 77.58815968979999,12.9847467957,0 77.5882758321,12.9850087651,0 77.5884644937,12.9854902249,0 77.5886251028,12.9858759737,0 77.5887768075,12.9862358372,0 77.58887091440001,12.9866493514,0 77.5888727235,12.9866572385,0 77.5888926585,12.9867473835,0 77.58889790960001,12.9867704999,0 77.5889011047,12.9867845662,0 77.5889083098,12.9868163884,0 77.5889117622,12.9868316348,0 77.5889391188,12.9869524526,0 77.5889251178,12.9871016592,0 77.5891461651,12.9874939692,0 77.589338183,12.9876673192,0 77.5896269512,12.9878673835,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

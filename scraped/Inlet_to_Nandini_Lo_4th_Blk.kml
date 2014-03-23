@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Nandini Lo 4th Blk.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Nandini L/o 4th Blk</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5331481337,13.0137745657,0 77.5332236343,13.0139580016,0 77.5333504545,13.0142029785,0 77.5334179777,13.0143104851,0 77.5335751603,13.0145444083,0 77.53362293070001,13.0146277024,0 77.5337057662,13.0147421361,0 77.53384251190001,13.0148842268,0 77.5340485621,13.0150661661,0 77.53417962330001,13.0152082349,0 77.5343079563,13.0153459445,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

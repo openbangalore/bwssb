@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>inlet to Venkatapura Area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>inlet to Venkatapura Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6212274427,12.9275250161,0 77.6212131437,12.927488965,0 77.6217551164,12.9272528157,0 77.62244457920001,12.9269596433,0 77.62302132249999,12.9267167339,0 77.6238279435,12.9263817938,0 77.62476889760001,12.9259814162,0 77.6253628992,12.9257233758,0 77.62632566720001,12.9253270462,0 77.6268328781,12.9250997824,0 77.6279385278,12.9246229723,0 77.6282680532,12.9244808048,0 77.6285932902,12.9243450885,0 77.62880956310001,12.924201925,0 77.6290071776,12.9241486671,0 77.62941218979999,12.9241445867,0 77.62978999489999,12.9241586632,0 77.6308429461,12.9243523251,0 77.6318706225,12.9245406233,0 77.6328348615,12.9247017874,0 77.6336485187,12.9248324255,0 77.63406731240001,12.9248965547,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

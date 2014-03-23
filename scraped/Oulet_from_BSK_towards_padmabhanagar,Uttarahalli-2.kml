@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from BSK towards padmabhanagar,Uttarahalli-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet from BSK towards padmabhanagar,Uttarahalli</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5696410422,12.9155222041,0 77.5693522075,12.915432016,0 77.5691854273,12.915384176,0 77.5689939561,12.9152474168,0 77.5687822594,12.9150391445,0 77.56837402390001,12.914675039,0 77.5678378663,12.9141926706,0 77.56755253679999,12.9139325322,0 77.56743431140001,12.9138093938,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

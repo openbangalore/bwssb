@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Machallibeta(Branching from 300mm at govt community Haelth Center).kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Machallibeta(Branching from 300mm at govt community Haelth Center)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6191351966,13.0208236718,0 77.6191026299,13.020849688,0 77.6190152309,13.0208840353,0 77.619083229,13.021323162,0 77.6179796597,13.0211622111,0 77.6178076268,13.0210300923,0 77.6176468045,13.0205727801,0 77.6174500456,13.0204074465,0 77.6167919657,13.0204188723,0 77.6160369367,13.0204838614,0 77.6154331839,13.0205616637,0 77.61502538550001,13.020728319,0 77.614700011,13.0208511168,0 77.6143485556,13.0208116369,0 77.6141618993,13.0206796628,0 77.613992537,13.0203371676,0 77.61395193200001,13.0201845979,0 77.61284381340001,13.0203798246,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

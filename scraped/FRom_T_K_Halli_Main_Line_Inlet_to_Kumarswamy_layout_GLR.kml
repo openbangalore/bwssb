@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FRom T K Halli Main Line Inlet to Kumarswamy layout GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>FRom T K Halli Main Line Inlet to Kumarswamy layout GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5668444514,12.9060384932,0 77.56604700139999,12.9065841084,0 77.5653410999,12.9071360507,0 77.5651384806,12.9073388336,0 77.5649797184,12.9075411858,0 77.5649231924,12.9077329729,0 77.56493123510001,12.9080436461,0 77.564795326,12.9080975691,0 77.5644198083,12.9080725701,0 77.56411733749999,12.908042073,0 77.5640966877,12.9080388477,0 77.5641027386,12.9082217687,0 77.5641873817,12.9088830298,0 77.5631763399,12.9086367707,0 77.56298687570001,12.9085539744,0 77.562608196,12.9083996444,0 77.5625914845,12.9084777539,0 77.56251001680001,12.9088888884,0 77.56251204110001,12.9091498305,0 77.56252427219999,12.9093935319,0 77.5625748244,12.9099005388,0 77.5620492127,12.910016858,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

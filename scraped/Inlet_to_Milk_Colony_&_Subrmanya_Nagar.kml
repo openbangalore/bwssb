@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Milk Colony &amp; Subrmanya Nagar.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Milk Colony &amp; Subrmanya Nagar</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5541248446,13.0085094982,0 77.55419082810001,13.0084448505,0 77.5545525048,13.0086117997,0 77.5545514029,13.0085357246,0 77.5545512531,13.008524965,0 77.55453990549999,13.0082215039,0 77.55453866080001,13.0081880422,0 77.5545266072,13.007949694,0 77.5545171972,13.0077615484,0 77.5545092017,13.0075728026,0 77.5544962181,13.0071976375,0 77.55446885640001,13.0069062778,0 77.55441773,13.0066151512,0 77.5543430064,13.0062812306,0 77.5543084041,13.0061536271,0 77.5542486371,13.00593316,0 77.5541629212,13.0055969569,0 77.55408945409999,13.0052666086,0 77.5540109897,13.0049243585,0 77.55392293590001,13.0045977385,0 77.55390194509999,13.0045163917,0 77.5538429737,13.0042877728,0 77.55375666400001,13.0040050274,0 77.5536479222,13.0036131281,0 77.553588476,13.0034021618,0 77.55354412040001,13.0032364648,0 77.5534933782,13.0030421458,0 77.55343450309999,13.0027678278,0 77.5533655345,13.0024112696,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

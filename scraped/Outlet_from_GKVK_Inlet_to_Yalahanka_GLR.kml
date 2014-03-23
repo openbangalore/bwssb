@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from GKVK Inlet to Yalahanka GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from GKVK Inlet to Yalahanka GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5592491485,13.089892221,0 77.5596372103,13.0899242257,0 77.5593758492,13.0922431016,0 77.5603060604,13.0930585493,0 77.56117007170001,13.0938387943,0 77.5613412829,13.0941239392,0 77.56169030620001,13.0953323942,0 77.56193637600001,13.0957817306,0 77.5626742946,13.097101056,0 77.5629053671,13.0975146843,0 77.5630391916,13.0977213165,0 77.5639734512,13.0975112337,0 77.5646328525,13.0976050696,0 77.56637548729999,13.09774549,0 77.5680010799,13.0978870643,0 77.56961189330001,13.0980144331,0 77.5701889154,13.0980421452,0 77.57096102830001,13.0981874283,0 77.5719233347,13.0983308112,0 77.573169287,13.0985478503,0 77.5738924355,13.09867449,0 77.5752900656,13.0989378105,0 77.57628730720001,13.0991573184,0 77.57690864280001,13.0993423351,0 77.5783614142,13.0997485074,0 77.5802839007,13.1002981698,0 77.5810763751,13.1005244881,0 77.58374942170001,13.1012554409,0 77.5853487609,13.1016840035,0 77.5864633616,13.1020481013,0 77.5867156859,13.1018236794,0 77.5862721192,13.1012492579,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet fro CLR GLR towards Domulur area ,Ejipura entier area,Vivek nagar &amp; VV nagar extension  nagar,Vanner pete,Andra colony,May-4.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet fro CLR GLR towards Domulur area ,Ejipura entier area,Vivek nagar &amp; VV nagar extension  nagar,Vanner pete,Andra colony,Maya bazar,Ayyappa temple &amp; Ayyappa temple block,Jayaraj nagar A to D street,Sonnenahalli,Rudrappa garden</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.618069578,12.9645260375,0 77.6183746097,12.963863245,0 77.61892175849999,12.9625813183,0 77.6196422977,12.9608673922,0 77.6200153672,12.959952933,0 77.62014614669999,12.9596408777,0 77.6203364963,12.9591504442,0 77.6205639386,12.9587597311,0 77.6209002281,12.9582902374,0 77.62116428509999,12.9579051312,0 77.6211940843,12.9572594507,0 77.6211412815,12.9568715589,0 77.6209434809,12.9560190183,0 77.6207871397,12.9550525209,0 77.62067794630001,12.9545158025,0 77.62029973600001,12.953074048,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

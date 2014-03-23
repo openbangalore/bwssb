@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to KTG SS Area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to KTG S/S Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5682692244,12.9411567227,0 77.5682299274,12.9405861518,0 77.56836492710001,12.9379635522,0 77.5683604219,12.9378530785,0 77.56837092009999,12.9377942289,0 77.566941216,12.937735165,0 77.56573411940001,12.9376705837,0 77.5648826178,12.9376675005,0 77.5646547833,12.9376535582,0 77.56424944130001,12.9367383213,0 77.56403378029999,12.9366239207,0 77.56388903049999,12.9366674212,0 77.56344564290001,12.9368724563,0 77.5626864895,12.9371776958,0 77.5622690209,12.936689819,0 77.5616024031,12.9360393167,0 77.5609997352,12.9355111791,0 77.5608455121,12.935273177,0 77.5607977821,12.9351561101,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Towards CLR GLR.kml</name>
+	<Style id="LineStyle0001">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="LineStyle003">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle0011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle0011">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00016">
+		<name>Towards CLR GLR</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Towards CLR GLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>900</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Towards CLR GLR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle003</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					77.60744800000001,12.965136,0 77.606735,12.965129,0 77.60674400000001,12.964257,0 77.606717,12.963562,0 77.606672,12.962057,0 77.606297,12.959737,0 77.605953,12.957848,0 77.605593,12.956047,0 77.605262,12.954711,0 77.605169,12.953923,0 77.605047,12.952789,0 77.604128,12.952273,0 77.603607,12.951346,0 77.60320299999999,12.950023,0 77.602952,12.949308,0 77.602476,12.948082,0 77.60234800000001,12.947474,0 77.602389,12.946732,0 77.60238099999999,12.945944,0 77.602521,12.945321,0 77.602762,12.94419,0 77.60279900000001,12.94348,0 77.60278,12.943078,0 77.60271,12.94267,0 77.60254999999999,12.942077,0 77.602418,12.941275,0 77.60218500000001,12.94003,0 77.60209999999999,12.9396,0 77.601775,12.937832,0 77.60159899999999,12.937031,0 77.600212,12.937288,0 77.599548,12.937431,0 77.598989,12.937745,0 77.598223,12.938606,0 77.59761399999999,12.939867,0 77.595783,12.93974,0 77.595178,12.939688,0 77.594261,12.939616,0 77.593735,12.939201,0 77.592738,12.938498,0 77.592529,12.93851,0 77.59189000000001,12.938033,0 77.590825,12.937289,0 77.589696,12.936501,0 77.589508,12.93626,0 77.587394,12.935444,0 77.587017,12.935701,0 77.586601,12.93603,0 77.586327,12.936435,0 77.58606399999999,12.93643,0 77.585562,12.936435,0 77.585089,12.936459,0 77.584754,12.936582,0 77.583373,12.936631,0 77.58309800000001,12.936646,0 77.582109,12.93667,0 77.58113899999999,12.936715,0 77.58046899999999,12.93672,0 77.58004200000001,12.936752,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

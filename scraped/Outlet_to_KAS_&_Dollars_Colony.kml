@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to KAS &amp; Dollars Colony.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to KAS &amp; Dollars Colony</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6070719942,12.9163758165,0 77.6072840522,12.916552294,0 77.6097121817,12.9165132687,0 77.6116811926,12.9164765026,0 77.6135825491,12.9164484804,0 77.614500552,12.9164203782,0 77.6151052868,12.9163785151,0 77.61614920300001,12.9162319439,0 77.61766001380001,12.9161951646,0 77.618534799,12.9162253892,0 77.6192420055,12.9162343249,0 77.6199192708,12.9163755881,0 77.621493034,12.9168643973,0 77.6220145847,12.9170595771,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

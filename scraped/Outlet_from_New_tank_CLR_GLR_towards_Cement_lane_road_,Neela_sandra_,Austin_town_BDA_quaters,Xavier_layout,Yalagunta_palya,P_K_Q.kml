@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from New tank CLR GLR towards Cement lane road ,Neela sandra ,Austin town BDA quaters,Xavier layout,Yalagunta palya,P K Q.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from New tank CLR GLR towards Cement lane road ,Neela sandra ,Austin town BDA quaters,Xavier layout,Yalagunta palya,P K Quatruss,Victoria Layout,Bazar Street ,Neela sandra Area,Sajeevpura slum,Vanner Pet</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6075116838,12.9651213459,0 77.6075416186,12.9647194721,0 77.607575709,12.9647028718,0 77.6075496874,12.9646751703,0 77.6078046894,12.9647048842,0 77.6088700695,12.9649093337,0 77.6097463965,12.9650977474,0 77.6099571168,12.9651464281,0 77.61038732340001,12.9645068862,0 77.611563449,12.9630035295,0 77.61238554720001,12.9619309502,0 77.6126376412,12.9617002462,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

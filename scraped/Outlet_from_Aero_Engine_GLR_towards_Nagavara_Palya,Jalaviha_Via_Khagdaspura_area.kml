@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Aero Engine GLR towards Nagavara Palya,Jalaviha Via Khagdaspura area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Aero Engine GLR towards Nagavara Palya,Jalaviha Via Khagdaspura area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6496663188,12.9832426878,0 77.6496409155,12.9832903752,0 77.6494105358,12.9837173212,0 77.6492121899,12.9840705394,0 77.6490238359,12.984388649,0 77.6488242189,12.9847305876,0 77.6486376638,12.9850554542,0 77.64852007650001,12.9852716617,0 77.648393419,12.9855017203,0 77.6482578186,12.9858495857,0 77.6481675924,12.9862047614,0 77.64813984510001,12.9864715703,0 77.6481192581,12.9866661211,0 77.64807602010001,12.9870741229,0 77.64812877910001,12.9871014098,0 77.64857358179999,12.9872804812,0 77.64906114030001,12.9875045241,0 77.6493787284,12.9876473811,0 77.64963555030001,12.9877553196,0 77.64978922829999,12.9878189033,0 77.6500016812,12.9879193974,0 77.65034768220001,12.9880836799,0 77.65073618700001,12.988269244,0 77.6514124852,12.9886354764,0 77.65187993879999,12.9888616922,0 77.6523413333,12.989085995,0 77.6528371369,12.9893277133,0 77.65312644220001,12.9894609823,0 77.653597714,12.9896674136,0 77.6541439502,12.9899184851,0 77.65483368460001,12.9902392282,0 77.6560336628,12.9907997582,0 77.6569631723,12.9912402029,0 77.65886650749999,12.9921760668,0 77.6625014832,12.9939620869,0 77.66364156,12.9944773984,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

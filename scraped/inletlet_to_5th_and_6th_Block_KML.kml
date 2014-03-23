@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>inletlet to 5th and 6th Block KML.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>inletlet to 5th and 6th Block KML</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.62100612800001,12.927715311,0 77.6215690752,12.929063886,0 77.62217092660001,12.9306399776,0 77.6225691284,12.9316687026,0 77.62294511339999,12.9325861153,0 77.62342853689999,12.9337089916,0 77.6237477987,12.9344369506,0 77.62391961,12.9347574328,0 77.62425269489999,12.9351960881,0 77.624477739,12.9353714522,0 77.6255225212,12.9362077699,0 77.6269159062,12.9373545183,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

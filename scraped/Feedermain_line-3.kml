@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Feedermain line-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Feedermain line</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.55004703109999,12.9995902339,0 77.5498148767,12.999505965,0 77.54979570739999,12.9995248043,0 77.5497890323,12.9994998982,0 77.54976963279999,12.9994937682,0 77.54975364950001,12.9995065664,0 77.5497437722,12.9994861214,0 77.5494964307,12.9994079639,0 77.5491022081,12.9993059651,0 77.5488623106,12.9992466957,0 77.5488415419,12.9992642804,0 77.54883161630001,12.9992390963,0 77.5485827608,12.9991704327,0 77.5485415455,12.9991581961,0 77.54852225010001,12.999176153,0 77.5485156527,12.9991473901,0 77.5480180046,12.999016382,0 77.5476745544,12.9989154635,0 77.5470309629,12.9989312601,0 77.5467807706,12.9989684783,0 77.5464576305,12.998984775,0 77.5463760506,12.9990118931,0 77.54634770520001,12.9989999082,0 77.54627123100001,12.9989971306,0 77.54591692140001,12.9989927104,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

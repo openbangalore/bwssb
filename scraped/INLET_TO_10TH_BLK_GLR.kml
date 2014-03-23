@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>INLET TO 10TH BLK GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>INLET TO 10TH BLK GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5101756099,12.9773423023,0 77.5100352493,12.97683142,0 77.509864759,12.9762960336,0 77.50966197539999,12.9756666706,0 77.5095437622,12.9753419026,0 77.5092648612,12.9746251345,0 77.50905356449999,12.9741885284,0 77.508787439,12.9737032571,0 77.5083243478,12.9729595676,0 77.5079488956,12.9724097574,0 77.5075626261,12.9718231553,0 77.5079770397,12.9715451387,0 77.5085449929,12.9712687577,0 77.5095161996,12.9709556839,0 77.51094975220001,12.9704270322,0 77.510666809,12.9697038339,0 77.51024110420001,12.9686783073,0 77.51010948379999,12.9683573534,0 77.5105239288,12.9682607614,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

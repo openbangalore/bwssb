@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet BTM _to IAS Colony EWS Colony Area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet BTM _to IAS Colony EWS Colony Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.60706146059999,12.9163753107,0 77.6073581587,12.9163895557,0 77.6073557193,12.915479561,0 77.6097370542,12.9155874048,0 77.6097329398,12.9138448518,0 77.609676327,12.9123973606,0 77.60964678640001,12.9115546554,0 77.60965096370001,12.9112894764,0 77.6097219672,12.9107856862,0 77.6099823185,12.9101635411,0 77.6099790773,12.9100700687,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

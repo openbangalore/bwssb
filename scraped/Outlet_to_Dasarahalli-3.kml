@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to Dasarahalli-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to Dasarahalli</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.54662289949999,12.9769839814,0 77.5468086982,12.9768426502,0 77.5470374505,12.976651363,0 77.54718830420001,12.9765052649,0 77.5473151131,12.9763745253,0 77.5474059994,12.9762808229,0 77.54743116580001,12.9762517793,0 77.5476222198,12.9760312952,0 77.5477890976,12.9758432077,0 77.54792285329999,12.975693691,0 77.5480190489,12.9755863148,0 77.5481054151,12.9754899118,0 77.548330432,12.975266592,0 77.5483768486,12.9752171341,0 77.5484035832,12.9751874969,0 77.5484259534,12.9751626971,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

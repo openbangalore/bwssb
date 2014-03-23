@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to BEL road OHT from 600mm dia-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to BEL road OHT from 600mm dia</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.57279233129999,13.0147887203,0 77.572786439,13.0148656881,0 77.57275533080001,13.0152882575,0 77.57273256800001,13.0156219399,0 77.5727097188,13.0159472573,0 77.57268939460001,13.0162809164,0 77.5726690316,13.0166109892,0 77.57264875590001,13.016949428,0 77.5726296014,13.0172782954,0 77.5726092015,13.0176047828,0 77.5725901087,13.017939625,0 77.57257096559999,13.0182696857,0 77.5725482277,13.0186057593,0 77.5725267086,13.0189418199,0 77.572507652,13.0192802466,0 77.5724861577,13.0196186983,0 77.57246470050001,13.0199607346,0 77.57244795840001,13.0202871858,0 77.57242646509999,13.0206256366,0 77.5724061272,13.0209581006,0 77.5723893111,13.0212773818,0 77.5723677316,13.0216074686,0 77.57234617490001,13.0219399438,0 77.5723284832,13.0221561098,0 77.5723268182,13.0221764503,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

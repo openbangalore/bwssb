@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OUTLET FROM SGK.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>OUTLET FROM SGK</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5151473602,12.9931293719,0 77.5170758456,12.9926588794,0 77.5168986381,12.9918418371,0 77.5162672245,12.9903371478,0 77.51540085550001,12.9882011657,0 77.51526234470001,12.9879176865,0 77.5145254512,12.9877144984,0 77.5135475835,12.9877318659,0 77.5132600038,12.9877241083,0 77.5121933535,12.9874630248,0 77.5121219106,12.9873056185,0 77.51183553120001,12.9866153951,0 77.5115890707,12.9861540261,0 77.51130718170001,12.985642935,0 77.5110862799,12.9853183357,0 77.5108599526,12.9849885186,0 77.5107810075,12.9848865182,0 77.5107519571,12.9844019674,0 77.51077300030001,12.9838220741,0 77.51088863139999,12.9832966011,0 77.5110470363,12.9827496352,0 77.5110207261,12.9822703278,0 77.51098810800001,12.981325292,0 77.5110013497,12.9806654176,0 77.51084004330001,12.9801492,0 77.5106686015,12.9794716231,0 77.51055547350001,12.9789440063,0 77.5102856944,12.9778050758,0 77.51021620900001,12.9775073999,0 77.5101756099,12.9773423023,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

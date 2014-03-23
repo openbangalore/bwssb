@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet From LLR to Chikkapet Circle.kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet From LLR to Chikkapet Circle</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5782586008,12.9744251351,0 77.5782747488,12.9744481799,0 77.57828138239999,12.9744576464,0 77.5782930701,12.9744744701,0 77.57829633439999,12.9744790652,0 77.578672244,12.9750082598,0 77.5789667653,12.9754288284,0 77.57901825410001,12.9755084984,0 77.5790855315,12.9756117272,0 77.5793818862,12.9760424407,0 77.5794964018,12.9762039245,0 77.5798375885,12.9766827516,0 77.579849289,12.9767007043,0 77.5798528015,12.9767063169,0 77.5798641314,12.9767241424,0 77.57987562690001,12.9767422282,0 77.5798785521,12.9767467164,0 77.5799295356,12.9768331669,0 77.5799875559,12.97693197,0 77.58004029,12.9770206617,0 77.5801342723,12.9771450818,0 77.5803260526,12.9774288925,0 77.5804055958,12.9775489385,0 77.5805371581,12.9777441316,0 77.5808213001,12.9781625413,0 77.5810279645,12.9784936341,0 77.5813120501,12.9789063971,0 77.5813483271,12.978962502,0 77.58136179,12.9789838251,0 77.5814349315,12.9790971575,0 77.5816951069,12.979536132,0 77.5817715884,12.9796796287,0 77.5849147433,12.9830182348,0 77.5848566208,12.9834154981,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

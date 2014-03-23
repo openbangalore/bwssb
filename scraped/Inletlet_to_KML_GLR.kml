@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inletlet to KML GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inletlet to KML GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6139022588,12.9315413196,0 77.61400110850001,12.9315077715,0 77.6142478455,12.9310580076,0 77.6146817663,12.9303573352,0 77.61491441859999,12.9299754104,0 77.6155381219,12.9297467212,0 77.6165917501,12.9293807406,0 77.6171393483,12.9291818248,0 77.6178882135,12.9289011016,0 77.61860267279999,12.928630393,0 77.6193514583,12.9283424136,0 77.6210587642,12.927664535,0 77.6214241325,12.9275247669,0 77.621467607,12.9277137127,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

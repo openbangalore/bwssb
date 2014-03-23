@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Branching from 1000mm Outelet from Hegannahalii Inlet to Singapur GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Branching from 1000mm Outelet from Hegannahalii Inlet to Singapur GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.54811678030001,13.0817358491,0 77.5455062437,13.0825285608,0 77.5446979068,13.0828879237,0 77.54405332029999,13.0828082248,0 77.5437005174,13.0826467645,0 77.5433205149,13.0826863664,0 77.5429627508,13.0827544335,0 77.5427299266,13.0828786389,0 77.5424449426,13.0829101319,0 77.5412013481,13.0829152108,0 77.5412117791,13.0830704851,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to  Azad Nagar Chamarajpet.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to  Azad Nagar Chamarajpet</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.56204231690001,12.960149267,0 77.56199147530001,12.9601475108,0 77.5619829863,12.9604230061,0 77.56144951180001,12.9604116206,0 77.56017797040001,12.9603747405,0 77.5593012345,12.9603607376,0 77.55932512930001,12.95968931,0 77.5593233088,12.9591350283,0 77.5593253608,12.958537714,0 77.5593449216,12.9578640746,0 77.5593655564,12.9569604363,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

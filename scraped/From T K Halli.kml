@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From T K Halli.kml</name>
+	<Style id="LineStyle001">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="LineStyle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle000">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00000">
+		<name>From T K Halli</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>From T K Halli</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>1200</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>MS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>From T K Halli</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle00</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					77.572874,12.911093,0 77.572716,12.911007,0 77.572052,12.910428,0 77.571198,12.909749,0 77.57067499999999,12.909264,0 77.57014100000001,12.908839,0 77.569594,12.908408,0 77.56846299999999,12.907434,0 77.567775,12.906861,0 77.567173,12.906365,0 77.566908,12.906087,0 77.56592600000001,12.905337,0 77.56491200000001,12.904516,0 77.564212,12.903932,0 77.562682,12.902674,0 77.561352,12.901518,0 77.56012,12.900488,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

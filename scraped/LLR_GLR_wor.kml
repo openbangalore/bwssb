@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>LLR_GLR</name>
+	<Document>
+		<name>Inlet from HGR GLR (9 MG) to LLR.kml</name>
+		<StyleMap id="line11">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line10</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="line1">
+			<LineStyle>
+				<color>b20000ff</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Style id="line10">
+			<LineStyle>
+				<color>b20000ff</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Placemark id="ID_00009">
+			<name>Inlet: Inlet from HGR GLR (9 MG) to LLR</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Inlet from HGR GLR (9 MG) to LLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP138</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>675</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1970</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>12-12-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>GANGADAR(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8036_A2,GQ8036_A3</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>586.51293</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Inlet from HGR GLR (9 MG) to LLR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>586.512921</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#line11</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						77.585266,12.983607,0 77.585516,12.983582,0 77.585886,12.983702,0 77.586561,12.983921,0 77.587423,12.984174,0 77.587603,12.984217,0 77.58767899999999,12.984235,0 77.58796599999999,12.984304,0 77.587998,12.984311,0 77.588016,12.984321,0 77.588016,12.984321,0 77.58802,12.98431,0 77.588026,12.984308,0 77.58803,12.984306,0 77.588128,12.984438,0 77.588448,12.984885,0 77.58852400000001,12.985216,0 77.58857,12.985351,0 77.58875999999999,12.985874,0 77.58884000000001,12.986058,0 77.588981,12.986466,0 77.588996,12.986471,0 77.58900199999999,12.986501,0 77.589024,12.986564,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT.kml</name>
+		<Style id="line12">
+			<LineStyle>
+				<color>b20000ff</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="line110">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line12</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line100</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="line100">
+			<LineStyle>
+				<color>b20000ff</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Placemark id="ID_00013">
+			<name>Outlet: Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#line110</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						77.58591800000001,12.98051,0 77.585981,12.980606,0 77.586101,12.98077,0 77.586274,12.981019,0 77.58636300000001,12.981147,0 77.586569,12.981393,0 77.586722,12.981627,0 77.58695400000001,12.981991,0 77.586921,12.982008,0 77.58595699999999,12.982502,0 77.585899,12.983351,0 77.585505,12.983464,0 77.585223,12.983545,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

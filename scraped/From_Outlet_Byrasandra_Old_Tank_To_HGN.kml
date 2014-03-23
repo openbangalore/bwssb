@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From Outlet Byrasandra Old Tank To HGN.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From Outlet Byrasandra Old Tank To HGN</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5887902381,12.9361428201,0 77.5894070736,12.9363879408,0 77.5896653734,12.9366362171,0 77.5898057599,12.9368657562,0 77.5903007517,12.9372351105,0 77.5907096852,12.9375256866,0 77.5919531383,12.9384370604,0 77.5923754833,12.9386457385,0 77.59267035409999,12.9387751698,0 77.592989496,12.9389483447,0 77.5934111058,12.9392865686,0 77.5939186132,12.9396876424,0 77.59492504230001,12.9400518961,0 77.5959122917,12.9405238394,0 77.59687935060001,12.9406137468,0 77.5968426777,12.9409923632,0 77.5974927691,12.9410495913,0 77.5975583092,12.9410619637,0 77.5975251574,12.9413992873,0 77.597508895,12.9415704508,0 77.5974478042,12.942201996,0 77.59738858910001,12.9427244353,0 77.59731426960001,12.9432396544,0 77.597630659,12.9431686902,0 77.59782239170001,12.943106339,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

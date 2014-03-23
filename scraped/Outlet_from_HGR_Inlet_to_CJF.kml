@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from HGR Inlet to CJF.kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from HGR Inlet to CJF</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5895417027,12.9878510525,0 77.58876401000001,12.9880739348,0 77.5886641904,12.9902023404,0 77.5859276922,12.9907554765,0 77.585392849,12.9908922704,0 77.58501543440001,12.9932863821,0 77.5845865486,12.9954180675,0 77.58419261109999,12.9973940322,0 77.58384197469999,12.9988436878,0 77.5838205699,12.9991307436,0 77.5837747282,13.0005893172,0 77.5838627609,13.0032058803,0 77.5819615075,13.0043960799,0 77.5789934405,13.0061466584,0 77.5781045011,13.0065272612,0 77.5759941284,13.0075378362,0 77.57395787100001,13.0072281763,0 77.5720632944,13.0078923679,0 77.5709358551,13.0091943472,0 77.5702727119,13.0101331663,0 77.56975241630001,13.010740697,0 77.5694080632,13.0113895109,0 77.5687976482,13.0117684568,0 77.5666799616,13.0106563819,0 77.5662905435,13.0111909006,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

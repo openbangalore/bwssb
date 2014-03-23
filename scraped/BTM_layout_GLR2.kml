@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BTM_layout_GLR2.kml</name>
+	<StyleMap id="IconStyle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle001">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00029">
+		<name>BTM layout</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>BTM layout</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>R3</td>
+
+</tr>
+
+<tr>
+
+<td>TYPE__OHT_</td>
+
+<td>OHT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>BTM layout</td>
+
+</tr>
+
+<tr>
+
+<td>VOLUME__ML</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VOLUME_MG_</td>
+
+<td>0.2</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_CO</td>
+
+<td>1980</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AVERAGE_GR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>MAXIMUM_WA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SKETCH_AVA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>09-01-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>Rudre gowda (VM) +Shakar (SW)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SS</td>
+
+<td>S3B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PICTURE</td>
+
+<td>N:\GIS\photos\Reservoir\BTM Layout OHT.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>ENABLED</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#IconStyle00</styleUrl>
+		<Point>
+			<coordinates>77.607349,12.916451,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

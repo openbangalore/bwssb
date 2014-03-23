@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OUTLET FROM HEGGANAHALLI TOWARDS  DASARAHALLI.kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>OUTLET FROM HEGGANAHALLI TOWARDS  DASARAHALLI</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.511068068,12.9971356771,0 77.51099376000001,12.9965339951,0 77.51094461620001,12.9955256883,0 77.5130534661,12.9948216104,0 77.5140056083,12.994480118,0 77.5117808788,12.9937173022,0 77.5100886548,12.993281057,0 77.50949823889999,12.9931532156,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

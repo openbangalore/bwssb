@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Colsepark OHT towards Doddigunta &amp; Cowx town.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Colsepark OHT towards Doddigunta &amp; Cowx town</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6097496733,12.9933510563,0 77.61004572109999,12.9932237847,0 77.6103243637,12.9942296955,0 77.6111073551,12.9955054197,0 77.6135193194,12.9942262417,0 77.6138085955,12.994608302,0 77.61533808679999,12.9935555096,0 77.6157757072,12.9943781463,0 77.6161341861,12.9950916252,0 77.61647136569999,12.9956332163,0 77.616707198,12.9958077218,0 77.6170455968,12.9960003157,0 77.61725108,12.9960699533,0 77.6178732066,12.9963552975,0 77.6189550981,12.9967842007,0 77.620017996,12.9972610963,0 77.6217121275,12.9979610807,0 77.6219927331,12.9980631198,0 77.6221730936,12.9981951538,0 77.6225549152,12.9985026237,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

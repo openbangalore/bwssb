@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Madagadi road.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Madagadi road</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5675446488,12.9568580473,0 77.567494896,12.9568547325,0 77.5674802827,12.9571340208,0 77.5674808098,12.957185437,0 77.5666667144,12.9571665287,0 77.56605737210001,12.9571504972,0 77.56603245780001,12.9576429185,0 77.5659981977,12.9584415115,0 77.56602110910001,12.9589735294,0 77.5660101747,12.959745137,0 77.5659710156,12.9604059429,0 77.56473052299999,12.9603828849,0 77.5634159374,12.9603725613,0 77.5626660731,12.9603647568,0 77.56203389949999,12.9603348187,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

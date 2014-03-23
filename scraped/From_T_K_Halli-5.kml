@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From T K Halli-5.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From T K Halli</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<LineString>
+			<coordinates>
+				77.5601198462,12.9004876402,0 77.5598226147,12.900285428,0 77.5592953985,12.8998388018,0 77.55882749760001,12.899474063,0 77.5582434597,12.898830781,0 77.557781596,12.8983404838,0 77.5573377887,12.8978284951,0 77.55673081080001,12.8970850351,0 77.5558688262,12.8960643865,0 77.5550400316,12.8950720946,0 77.55458512670001,12.8945458649,0 77.5533057161,12.8930882481,0 77.55258010679999,12.8921774071,0 77.5521815579,12.8918012182,0 77.5512862476,12.8907342595,0 77.5503472357,12.8896820648,0 77.54884907979999,12.8880329239,0 77.54864855460001,12.8878405861,0 77.5485115006,12.8878072741,0 77.54853079279999,12.8877379451,0 77.5477668273,12.88702992,0 77.5461220409,12.8853343761,0 77.54480090040001,12.8838364682,0 77.5441558374,12.8830265248,0 77.5437719154,12.8824171902,0 77.5437208398,12.8823401925,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

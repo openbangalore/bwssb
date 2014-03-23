@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from OMBR GLR to Area Service.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from OMBR GLR to Area Service</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6490291045,13.0144861506,0 77.6490971004,13.0144389572,0 77.6489881343,13.0140999507,0 77.648817732,13.0138925452,0 77.648639472,13.0135764636,0 77.648335471,13.0132413494,0 77.648188568,13.013008606,0 77.64800138530001,13.0127702979,0 77.64795510099999,13.0127157942,0 77.6479437133,13.0126764718,0 77.6479512084,13.012625478,0 77.6479584903,13.0125759309,0 77.64796986410001,13.0125566925,0 77.6479592738,13.0125346711,0 77.6479952415,13.0125361169,0 77.6480288577,13.0125453343,0 77.64834980480001,13.012697423,0 77.6487707221,13.0129094405,0 77.6491488218,13.0131063589,0 77.64951822570001,13.0132878279,0 77.6495849237,13.0133134389,0 77.6496519767,13.0133151441,0 77.64974428079999,13.0132843229,0 77.6497469637,13.0132826775,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

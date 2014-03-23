@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from macahlibeta (Braching from 450mm at MBW function hall) towards DJ Halli area.kml</name>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from macahlibeta (Braching from 450mm at MBW function hall) towards DJ Halli area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.61342940350001,13.0086667966,0 77.61339457760001,13.0086979309,0 77.6133243601,13.0086269292,0 77.6132761544,13.0085628767,0 77.6131617965,13.0085831512,0 77.6126633289,13.0087029069,0 77.6119990329,13.0088396296,0 77.6113290567,13.0089228649,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

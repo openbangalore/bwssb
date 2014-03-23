@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to  HBR Twin Tank.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to  HBR Twin Tank</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6277818169,13.0019930248,0 77.6275618911,13.0026133006,0 77.6279753865,13.0042936056,0 77.62689065950001,13.0046345723,0 77.6273342832,13.0057277173,0 77.6220957589,13.0078095643,0 77.6231184519,13.0088824761,0 77.6242262566,13.01048557,0 77.6250586219,13.0113123597,0 77.6270212962,13.0144504268,0 77.6277074452,13.0156683741,0 77.6280799007,13.0178651471,0 77.62857178900001,13.0206086294,0 77.62926349599999,13.0228801763,0 77.63045185439999,13.0252130648,0 77.63127095909999,13.0267989663,0 77.6322150093,13.027606848,0 77.63427079820001,13.0266557187,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

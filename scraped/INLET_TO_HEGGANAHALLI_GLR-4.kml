@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>INLET TO HEGGANAHALLI GLR-4.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>INLET TO HEGGANAHALLI GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5148007543,12.9951181472,0 77.5152114046,12.9952289124,0 77.51662289799999,12.9954393379,0 77.5178913515,12.9959603022,0 77.519318943,12.9965767997,0 77.52031013600001,12.9969976312,0 77.52068265689999,12.997193134,0 77.52123379530001,12.9974400692,0 77.5217688809,12.9975803947,0 77.52314342,12.9979294125,0 77.523611059,12.998049808,0 77.5248623256,12.998358191,0 77.52612531,12.9986615064,0 77.5272485391,12.9989426747,0 77.5281989091,12.9992039478,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

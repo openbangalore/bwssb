@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>600 mm inlet to Banashankari GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>600 mm inlet to Banashankari GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5728626077,12.9110387205,0 77.57285718590001,12.9110701601,0 77.5728351543,12.9110603375,0 77.5728252585,12.9110934223,0 77.5728827139,12.9111358834,0 77.5728872877,12.9114398957,0 77.5728922699,12.9120694747,0 77.57291673109999,12.9123166388,0 77.5730233605,12.9127351014,0 77.5731491822,12.9132430143,0 77.57330705379999,12.913668143,0 77.5734042622,12.9142372923,0 77.5734999627,12.9153729779,0 77.5734985843,12.9155952974,0 77.5735365438,12.9168915243,0 77.57302755409999,12.9166784296,0 77.5723761268,12.9166011843,0 77.57238432120001,12.9162114704,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

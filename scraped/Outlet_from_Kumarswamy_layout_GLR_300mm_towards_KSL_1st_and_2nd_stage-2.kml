@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Kumarswamy layout GLR 300mm towards KSL 1st and 2nd stage-2.kml</name>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from Kumarswamy layout GLR 300mm towards KSL 1st and 2nd stage</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5669380759,12.9095426453,0 77.5669127282,12.9095406357,0 77.56654317330001,12.9095397492,0 77.5665282203,12.9095410254,0 77.5662550949,12.9095696827,0 77.5659952187,12.909599339,0 77.56580061050001,12.9095944744,0 77.5657453338,12.9095927586,0 77.56533934540001,12.9095752884,0 77.5652949927,12.9095723359,0 77.56478721080001,12.9095637695,0 77.5644607301,12.9095534226,0 77.5643945177,12.9095518139,0 77.5641957652,12.9095356955,0 77.5640781322,12.9095153929,0 77.5637742017,12.9094585216,0 77.5634355535,12.9093839213,0 77.563240404,12.909325982,0 77.5627661196,12.9091589777,0 77.5626205561,12.9091002686,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

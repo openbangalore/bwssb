@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from CLR Towards Shanthinagar.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet from CLR Towards Shanthinagar</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.60748656920001,12.965126924,0 77.60743382539999,12.9651174132,0 77.6074529927,12.9647113447,0 77.60747638380001,12.9646851094,0 77.6074495006,12.9646568804,0 77.6074550357,12.9646267068,0 77.6071357093,12.9645754071,0 77.6067923909,12.9645138298,0 77.60680254499999,12.9643292263,0 77.60677649740001,12.9631749306,0 77.6067547927,12.9622608498,0 77.6067271254,12.9619444092,0 77.60645438589999,12.9603276969,0 77.60633596610001,12.9596046146,0 77.60608162920001,12.9581480862,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

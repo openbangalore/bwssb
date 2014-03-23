@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to Area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.54899312809999,12.984435241,0 77.5490101453,12.9845890043,0 77.5490174542,12.9848147549,0 77.54905271840001,12.9850819596,0 77.5491081423,12.985362466,0 77.5491783958,12.9856244171,0 77.5492550681,12.9859022611,0 77.5493084654,12.986106695,0 77.5493500745,12.9862596992,0 77.5494958676,12.9867334999,0 77.54954014339999,12.9868920287,0 77.54963109320001,12.9872054752,0 77.5497270665,12.9875332156,0 77.5497896838,12.9877152324,0 77.5498487407,12.9878714613,0 77.54987106759999,12.9879406542,0 77.5499818415,12.9882839387,0 77.5500873992,12.9885659247,0 77.5501912445,12.988829046,0 77.55029855239999,12.9891925303,0 77.5504082006,12.9895464303,0 77.5505201159,12.9898835749,0 77.5505938081,12.9901328581,0 77.5506261574,12.9902422912,0 77.5507163443,12.9905999678,0 77.5508166841,12.9909406947,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

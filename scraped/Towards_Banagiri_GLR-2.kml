@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Towards Banagiri GLR-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Towards Banagiri GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.57355568369999,12.9163404394,0 77.57355544790001,12.9171976818,0 77.5735798254,12.9178998525,0 77.5736751579,12.9181789503,0 77.57376482239999,12.918368102,0 77.57417835690001,12.9195683963,0 77.5742397759,12.9198074404,0 77.5743126773,12.9201088763,0 77.5744268798,12.9205992091,0 77.5744633464,12.9207814787,0 77.573576296,12.9208977928,0 77.5736537305,12.921795814,0 77.57365779830001,12.9231439509,0 77.5717769922,12.923191175,0 77.5702977526,12.9234256626,0 77.5703084778,12.9235211726,0 77.56954960740001,12.9236625069,0 77.5671854635,12.9241064818,0 77.56577472950001,12.9243689563,0 77.5648698456,12.9245308365,0 77.56512523470001,12.9256757178,0 77.5649509645,12.92579217,0 77.5646104126,12.9258528867,0 77.5645707419,12.9257863454,0 77.56307188149999,12.926011427,0 77.561223106,12.9263355514,0 77.5610355754,12.9261079131,0 77.5609114948,12.9254111324,0 77.5607333188,12.9241889929,0 77.55857236049999,12.9244874747,0 77.55844575099999,12.9242592365,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

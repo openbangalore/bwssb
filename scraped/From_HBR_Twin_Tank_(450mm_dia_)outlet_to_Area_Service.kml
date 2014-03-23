@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From HBR Twin Tank (450mm dia )outlet to Area Service.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From HBR Twin Tank (450mm dia )outlet to Area Service</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6323018762,13.0276646492,0 77.6322150093,13.027606848,0 77.6319269453,13.0273958463,0 77.6316448868,13.0271764159,0 77.6314306349,13.026971834,0 77.63127095909999,13.0267989663,0 77.6311233078,13.0266104396,0 77.63093837540001,13.0263541681,0 77.6308398672,13.0262021917,0 77.6307072142,13.0259334378,0 77.6306059571,13.0256942435,0 77.63056512270001,13.0255787301,0 77.63055731919999,13.0255561825,0 77.6305538285,13.0255460962,0 77.6305508528,13.0255374971,0 77.63047774250001,13.0253262483,0 77.63045185439999,13.0252130648,0 77.6304106529,13.0250329261,0 77.6303971925,13.024962858,0 77.6303480972,13.024707289,0 77.6303324229,13.024659478,0 77.63029771940001,13.0245536274,0 77.6302466267,13.0244477788,0 77.63019408380001,13.0243777994,0 77.63017266919999,13.0243520437,0 77.6299230959,13.0240518882,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

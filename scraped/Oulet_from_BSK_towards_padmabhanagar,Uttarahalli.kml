@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from BSK towards padmabhanagar,Uttarahalli.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet from BSK towards padmabhanagar,Uttarahalli</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5723457416,12.9162182698,0 77.5723447835,12.9166007413,0 77.571964381,12.9165758038,0 77.5716526925,12.9165979967,0 77.57149432999999,12.9166011499,0 77.571269943,12.916581846,0 77.5710476746,12.916531446,0 77.5707788908,12.9164599903,0 77.57058337620001,12.9164045456,0 77.5704975085,12.9163480216,0 77.5703965077,12.9162414482,0 77.570282933,12.9160967522,0 77.57019050530001,12.9158753556,0 77.5701110431,12.9157303238,0 77.570017377,12.9156260684,0 77.5699221056,12.915603102,0 77.5697437945,12.9155618297,0 77.5696410422,12.9155222041,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

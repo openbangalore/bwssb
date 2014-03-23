@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tapping from 600mm dia line coming from CJF towards ITI layout &amp; SK garden.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Tapping from 600mm dia line coming from CJF towards ITI layout &amp; SK garden</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.60567739059999,13.0058286597,0 77.6056035495,13.0058562366,0 77.6055196219,13.0058852365,0 77.6055002224,13.0058473655,0 77.605290985,13.0054388931,0 77.6049294251,13.0047292054,0 77.6045111433,13.0039037031,0 77.60421559869999,13.0033196572,0 77.6042029969,13.0032947524,0 77.6040935784,13.0030785222,0 77.6040898032,13.0030696351,0 77.60408882279999,13.0030673286,0 77.6039848408,13.0030965191,0 77.6039738045,13.0030713448,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

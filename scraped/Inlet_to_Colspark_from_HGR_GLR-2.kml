@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Colspark from HGR GLR-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Colspark from HGR GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6072553481,12.9935504719,0 77.60731413249999,12.9935957369,0 77.6076321388,12.9936189915,0 77.6077018495,12.9936204967,0 77.6079802956,12.9935888938,0 77.6082095794,12.9935856351,0 77.60841961360001,12.9935691944,0 77.60860923369999,12.993535322,0 77.6087324686,12.9934955024,0 77.6088382846,12.9934366012,0 77.60914692679999,12.9932269053,0 77.6093941396,12.9930331964,0 77.6096980332,12.9933443043,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

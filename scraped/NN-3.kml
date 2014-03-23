@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NN-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.58008086140001,12.9368201322,0 77.58028393710001,12.9368211247,0 77.5806907803,12.9368075368,0 77.5811098563,12.9367986079,0 77.5817141515,12.9367902349,0 77.5821965832,12.9367806769,0 77.5829007362,12.9367665314,0 77.5839583679,12.9367632235,0 77.584928152,12.9367488304,0 77.5850307425,12.9367717169,0 77.5850139545,12.9365615314,0 77.5851327627,12.9365027856,0 77.5861074061,12.9364871449,0 77.5880549753,12.9368801583,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

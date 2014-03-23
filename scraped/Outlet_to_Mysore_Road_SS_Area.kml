@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to Mysore Road SS Area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to Mysore Road S/S Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5607546279,12.9603914668,0 77.5607581148,12.9610235852,0 77.5607538448,12.9611863301,0 77.5599081092,12.961168734,0 77.5595858264,12.9611770865,0 77.559459456,12.961222385,0 77.5592600717,12.9612264931,0 77.55889076920001,12.9611657799,0 77.5586340089,12.9611216565,0 77.5578699105,12.9608620611,0 77.55743630169999,12.9606392609,0 77.5569670706,12.9603707901,0 77.5562998026,12.9599887693,0 77.5561878825,12.9598965733,0 77.5558807093,12.9595730567,0 77.5553511712,12.9589505865,0 77.55498666139999,12.9585493669,0 77.5546477874,12.9583816513,0 77.5536329697,12.9580552263,0 77.55256537610001,12.9576837032,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

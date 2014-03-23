@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet Towards BTR GLR-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet Towards BTR GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.57392416899999,12.9405629404,0 77.57377355200001,12.9406098449,0 77.5731932441,12.9405821086,0 77.57293245459999,12.9405799021,0 77.57283180420001,12.9405087059,0 77.57100876289999,12.9404980083,0 77.5702485209,12.9405102862,0 77.5691276761,12.9405308969,0 77.569141831,12.9409610275,0 77.5691243932,12.9411619921,0 77.5683592254,12.9411695326,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

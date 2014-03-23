@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OUTLET FROM HEGGANAHALLI GRAVITY LINE INLET TO SGKA GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>OUTLET FROM HEGGANAHALLI GRAVITY LINE INLET TO SGKA GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5112477716,12.9972207133,0 77.5122635338,12.9964172479,0 77.5138156299,12.9956181496,0 77.5143570028,12.9951539369,0 77.51463026570001,12.9947798965,0 77.51461856740001,12.9946484411,0 77.51475476269999,12.9944560572,0 77.5156594618,12.9936964234,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

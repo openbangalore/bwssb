@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Rudrappa Garden &amp; K B Nagar.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Rudrappa Garden &amp; K B Nagar</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.56206149889999,12.9595499841,0 77.5609976945,12.9595458657,0 77.5601311011,12.9595366233,0 77.55937895149999,12.9594996029,0 77.5593672392,12.9595352511,0 77.5593246924,12.9595563132,0 77.5592760972,12.9595358425,0 77.5592765345,12.9594920848,0 77.5590044011,12.9594825574,0 77.5586687026,12.9594266353,0 77.558271901,12.959300247,0 77.5578386012,12.9591475667,0 77.55737218509999,12.9590040942,0 77.5569116713,12.9588580217,0 77.55657577700001,12.9587720677,0 77.5562720197,12.9587000319,0 77.5560488034,12.9586114206,0 77.5558279773,12.9584491662,0 77.55541465979999,12.9583037694,0 77.5549267817,12.9581279305,0 77.5545508403,12.9579984416,0 77.5544565956,12.9582065719,0 77.5533992414,12.9578468062,0 77.5524445241,12.9575023196,0 77.55224190529999,12.9574524824,0 77.5522145562,12.9571388731,0 77.5521562456,12.956686529,0 77.55210379970001,12.9563434207,0 77.5520577649,12.9559737334,0 77.5520436986,12.9557784381,0 77.5520320176,12.9555209362,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Branching or tapping from 300mm(300mm dia outlet from Aero Engine)towards Indiranagar.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Branching or tapping from 300mm(300mm dia outlet from Aero Engine)towards Indiranagar</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6477180551,12.9814557699,0 77.6477512872,12.9814042737,0 77.6479525165,12.9810924579,0 77.647954281,12.9810921518,0 77.6479554929,12.9810912469,0 77.64795555800001,12.9810899065,0 77.6479550904,12.9810884694,0 77.6479599882,12.9810808788,0 77.6481633675,12.9811553471,0 77.64859041440001,12.9813034441,0 77.6489804263,12.9814338498,0 77.6491982976,12.9815106764,0 77.649343921,12.9815611374,0 77.64976344910001,12.9817059211,0 77.6501488684,12.9818375009,0 77.6503124222,12.9818956831,0 77.65034131429999,12.9819055517,0 77.6503511488,12.9819099684,0 77.6503506091,12.9819133616,0 77.6503512207,12.9819167431,0 77.6503535474,12.9819189779,0 77.6503575901,12.9819200659,0 77.65036101929999,12.9819177724,0 77.65036272330001,12.9819154966,0 77.6503817919,12.9819220776,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

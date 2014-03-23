@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet of New Tank GLR(Byrasandara) to HGN.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet of New Tank GLR(Byrasandara) to HGN</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.58857986130001,12.9364361347,0 77.5892462213,12.9365604196,0 77.5898036629,12.9367995349,0 77.59057656989999,12.9373729038,0 77.5920653304,12.9384284558,0 77.592673518,12.9387229768,0 77.5929301291,12.9388418791,0 77.5937473898,12.9394820738,0 77.59394232130001,12.9396391572,0 77.594067592,12.9396929571,0 77.59450429979999,12.9397130761,0 77.59563373250001,12.9397874605,0 77.5967908059,12.9398646906,0 77.5976871126,12.9399632873,0 77.5975964645,12.9403256002,0 77.5975313686,12.9410968577,0 77.59749285469999,12.9414944933,0 77.5973990732,12.9424362875,0 77.5972657698,12.9433844493,0 77.59709897170001,12.944332945,0 77.59699418060001,12.9447999389,0 77.5969139474,12.9449918973,0 77.5966942347,12.9452419959,0 77.5958443274,12.9458030327,0 77.5958970194,12.9458921136,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FRom BSK GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>FRom BSK GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.56743431140001,12.9138093938,0 77.5669374355,12.9138563488,0 77.5664524363,12.9139686831,0 77.5661357071,12.9140937056,0 77.5658230351,12.9142581295,0 77.5655133953,12.9143615682,0 77.5649194428,12.9145430965,0 77.5643143051,12.9147032199,0 77.5634505466,12.9149519352,0 77.56288177250001,12.9150937706,0 77.5620680095,12.915346772,0 77.561705504,12.915643153,0 77.56150533669999,12.9157287807,0 77.5613706533,12.9156643656,0 77.5612892586,12.9155683524,0 77.5611246789,12.9152006487,0 77.5609576505,12.914951294,0 77.5607285258,12.9147061335,0 77.5604911427,12.9145139541,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Old tank &amp; pumping line towards Braching 450mm,450,.kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from Old tank &amp; pumping line towards Braching 450mm,450,</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.607937777,12.9647132312,0 77.6082667124,12.9647744729,0 77.6087986503,12.9648805293,0 77.60937508879999,12.9650002412,0 77.6099247331,12.9651214156,0 77.6099473275,12.9651316606,0 77.6099709068,12.9651259281,0 77.6099773152,12.9651452579,0 77.6100510926,12.9651787109,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

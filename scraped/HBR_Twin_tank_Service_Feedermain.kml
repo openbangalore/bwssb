@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HBR Twin tank Service Feedermain.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>HBR Twin tank Service Feedermain</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6362060798,13.004278279,0 77.6361132391,13.0052705439,0 77.6361939777,13.0060532411,0 77.6357062036,13.0073135884,0 77.63553708470001,13.0084687511,0 77.6353125206,13.0100100827,0 77.6351280998,13.0113965709,0 77.63541272800001,13.01280617,0 77.63576543329999,13.014308105,0 77.6362059458,13.0164785688,0 77.63643147000001,13.0176125954,0 77.6368652462,13.0198704269,0 77.6369681632,13.02105957,0 77.6370994975,13.0218610915,0 77.6372263077,13.0230992889,0 77.6370836389,13.0250105373,0 77.63699500590001,13.0262372519,0 77.6347058051,13.0265489969,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from Hegganahalli GLR to Inlet to GKVK GLR-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet from Hegganahalli GLR to Inlet to GKVK GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.51263853970001,13.0007965164,0 77.5130277225,13.003577772,0 77.5102668519,13.0039343795,0 77.5084313883,13.0040793432,0 77.50563376780001,13.0042947006,0 77.5048936674,13.0045242223,0 77.505036488,13.0053857485,0 77.50521856500001,13.0064220186,0 77.50545480060001,13.0075929097,0 77.5056574855,13.0084105006,0 77.50588852449999,13.0095130615,0 77.50599692420001,13.0098787615,0 77.5053738159,13.0098126767,0 77.50444518170001,13.0097272469,0 77.50293861980001,13.0095943427,0 77.5012574796,13.0094149157,0 77.50194912320001,13.0103884494,0 77.5052123291,13.0151435857,0 77.5058412552,13.0158471081,0 77.5059909071,13.0166679883,0 77.5088363596,13.0208238076,0 77.5113386995,13.0247916659,0 77.5123430038,13.0252600246,0 77.5152731238,13.02655233,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

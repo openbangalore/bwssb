@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Towards JP Nagar &amp; Jayanagar Area.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Towards JP Nagar &amp; Jayanagar Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5788758411,12.9170884998,0 77.5792501108,12.9170802267,0 77.5802827366,12.9170819763,0 77.58220237659999,12.9170253512,0 77.5856572455,12.9169720395,0 77.58702635260001,12.9169345748,0 77.58865850860001,12.9168849338,0 77.5914894009,12.9168186076,0 77.592410223,12.9167903443,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

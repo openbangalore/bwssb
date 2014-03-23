@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From Jayadeva flyover to BTM GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From Jayadeva flyover to BTM GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.59987242859999,12.9162694313,0 77.6003252398,12.9162835214,0 77.6016016385,12.9162373429,0 77.60171371910001,12.9162362262,0 77.6017322486,12.9166137149,0 77.60255092520001,12.9166055565,0 77.60376407210001,12.9165695589,0 77.60474360790001,12.9165645702,0 77.606117712,12.9165412981,0 77.6070483666,12.9165224467,0 77.6070776049,12.9165221547,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From Dairy Circle to Koramangala.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From Dairy Circle to Koramangala</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6017031137,12.9375053465,0 77.6017885239,12.93749807,0 77.601708561,12.9371300937,0 77.6022219621,12.9370736219,0 77.6032481335,12.9368999975,0 77.6042934341,12.9367355142,0 77.60554816040001,12.9365736023,0 77.6060282963,12.9365221239,0 77.6065080923,12.9364379718,0 77.60705358670001,12.9362644699,0 77.60774091650001,12.9360008563,0 77.6080909665,12.935796631,0 77.6092827537,12.9350751714,0 77.6104069423,12.9342610243,0 77.61157331840001,12.9333857672,0 77.6127581854,12.9324589731,0 77.6138392801,12.9316219068,0 77.6139866477,12.931606426,0 77.6134875994,12.9325823688,0 77.61309973900001,12.9332677818,0 77.6123668396,12.9346381782,0 77.6119459553,12.9353519293,0 77.6109894418,12.9371866955,0 77.61028454,12.9385054614,0 77.60927658289999,12.9404294325,0 77.6083894746,12.9420767806,0 77.6082032042,12.9424707571,0 77.6077891433,12.9438426263,0 77.6075215828,12.9446575368,0 77.6071958948,12.9458324654,0 77.6068000847,12.9471294639,0 77.60632181619999,12.9487353761,0 77.60584208730001,12.9502012626,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

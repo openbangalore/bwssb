@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet fro CLR GLR upon Pupm Station upto MG Road, feeding to Ashoka nagar area,Residency road,Richmand road,Brigade road,Convent.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet fro CLR GLR upon Pupm Station upto MG Road, feeding to Ashoka nagar area,Residency road,Richmand road,Brigade road,Convent road,Church street</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6075122412,12.9651463869,0 77.6075099474,12.9651601542,0 77.6069230912,12.9652102554,0 77.6069384158,12.9657455338,0 77.60690012649999,12.9662813495,0 77.606881925,12.9664058286,0 77.60675063070001,12.9669043309,0 77.60668609139999,12.9672599403,0 77.6064982872,12.9679490395,0 77.60637326840001,12.9682311549,0 77.60637035009999,12.9685359502,0 77.60639851720001,12.9689001921,0 77.6066191657,12.9696091019,0 77.6068718977,12.9704730606,0 77.6070229776,12.9709376589,0 77.60716815240001,12.9714202436,0 77.6072100018,12.9719277671,0 77.60723655220001,12.972136654,0 77.6071950245,12.9722446347,0 77.60750421660001,12.9732633965,0 77.6080939893,12.9751273088,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

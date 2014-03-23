@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from Hegganahalli GLR to Inlet to GKVK GLR.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet from Hegganahalli GLR to Inlet to GKVK GLR</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.52259795240001,13.0379293975,0 77.5224527335,13.0375897746,0 77.5220046347,13.0378809949,0 77.5208090862,13.0329802509,0 77.52008164430001,13.0297602119,0 77.5198402579,13.0287944243,0 77.51991012640001,13.0284710326,0 77.51682595379999,13.0272579748,0 77.5152731238,13.02655233,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

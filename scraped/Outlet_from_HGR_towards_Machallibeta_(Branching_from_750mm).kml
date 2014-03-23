@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from HGR towards Machallibeta (Branching from 750mm).kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from HGR towards Machallibeta (Branching from 750mm)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6021166235,12.9954341583,0 77.6017933597,12.9954860131,0 77.6011499434,12.9956463092,0 77.60075442110001,12.9957304706,0 77.6005626035,12.9957422122,0 77.60050657639999,12.995731316,0 77.6001495383,12.9955843154,0 77.5996369418,12.9954199332,0 77.5993920983,12.9953558722,0 77.5989881062,12.9952686997,0 77.5986346144,12.9951924224,0 77.59830987060001,12.995085452,0 77.59753570070001,12.9948192089,0 77.5971159999,12.9946596683,0 77.5969841486,12.9946382793,0 77.5967060104,12.9946135722,0 77.5966350545,12.9945879883,0 77.5965725009,12.9944956281,0 77.5965318695,12.9944356364,0 77.59637502299999,12.9942040538,0 77.5963659926,12.994163595,0 77.5963559713,12.9941249893,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

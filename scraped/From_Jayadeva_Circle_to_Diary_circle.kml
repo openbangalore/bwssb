@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From Jayadeva Circle to Diary circle.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From Jayadeva Circle to Diary circle</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5998611341,12.9166466937,0 77.5998755775,12.9168038224,0 77.599899321,12.9174734789,0 77.5999570955,12.9186411825,0 77.6000147323,12.919501131,0 77.60006723719999,12.9204537561,0 77.600092659,12.9223209558,0 77.6002507056,12.9240523772,0 77.6003052888,12.9252051719,0 77.6003470096,12.9262923602,0 77.600405026,12.9271881589,0 77.6004277935,12.9282098016,0 77.6004658656,12.9289444511,0 77.60051083480001,12.9297567177,0 77.6005793667,12.9304910633,0 77.600628324,12.9311001112,0 77.6006265047,12.9315124626,0 77.60074476299999,12.9323419256,0 77.60091163289999,12.9331589519,0 77.60101056569999,12.9338870179,0 77.60156858000001,12.9367904898,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

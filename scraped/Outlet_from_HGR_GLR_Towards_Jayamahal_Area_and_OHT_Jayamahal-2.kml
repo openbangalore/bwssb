@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from HGR GLR Towards Jayamahal Area and OHT Jayamahal-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from HGR GLR Towards Jayamahal Area and OHT Jayamahal</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5968302462,12.9948545453,0 77.5964254769,12.9950371485,0 77.5962916716,12.9952966427,0 77.59609822,12.9963837894,0 77.5958971558,12.9976765812,0 77.595159766,12.9999021863,0 77.59682373690001,12.9995795815,0 77.59802042699999,12.9993285733,0 77.5985669904,12.9993804702,0 77.5992124416,12.9995652342,0 77.5997834049,12.9997364005,0 77.6003922924,12.9985172098,0 77.60085842150001,12.9976340947,0 77.6000583916,12.9974688098,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

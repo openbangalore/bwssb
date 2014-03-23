@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Rajajinagar 1st &amp; 2nd Blk &amp; KM Halli ( From 4mg New GLR).kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Rajajinagar 1st &amp; 2nd Blk &amp; KM Halli ( From 4mg New GLR)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5512000375,13.0070874859,0 77.5512472268,13.0071926652,0 77.5512545851,13.0071960592,0 77.55125846750001,13.0072127992,0 77.5513568586,13.0074951815,0 77.55126272290001,13.0079220451,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet From Yalahanka GLR Towards Sahakara nahgar,Upto CJF-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet From Yalahanka GLR Towards Sahakara nahgar,Upto CJF</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.58629974039999,13.1011753775,0 77.5866854187,13.1009778892,0 77.5873258413,13.101355109,0 77.5880113856,13.1007996433,0 77.5887181598,13.1001758387,0 77.5897117375,13.0993447776,0 77.5918951882,13.097334076,0 77.59344194880001,13.0960038395,0 77.5942740274,13.0951229989,0 77.5940632505,13.0924599076,0 77.5939728948,13.0896521842,0 77.5935934,13.0860107529,0 77.593404789,13.0831323046,0 77.5932889772,13.0818596496,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

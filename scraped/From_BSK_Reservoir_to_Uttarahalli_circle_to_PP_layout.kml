@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From BSK Reservoir to Uttarahalli circle to PP layout.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From BSK Reservoir to Uttarahalli circle to PP layout</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<gx:balloonVisibility>1</gx:balloonVisibility>
+		<LineString>
+			<coordinates>
+				77.54185039719999,12.9059251337,0 77.5417560803,12.9059856497,0 77.54166996399999,12.9065064082,0 77.5415577909,12.9068600893,0 77.541274273,12.9071377475,0 77.54099666480001,12.9073974197,0 77.54058540689999,12.9076942479,0 77.53930687480001,12.9083760006,0 77.5388888096,12.9086023747,0 77.53828251029999,12.908407468,0 77.53810649739999,12.9083518072,0 77.5372879026,12.9083693196,0 77.5365381103,12.9084435322,0 77.5362962601,12.9086251638,0 77.5362692648,12.9086063022,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

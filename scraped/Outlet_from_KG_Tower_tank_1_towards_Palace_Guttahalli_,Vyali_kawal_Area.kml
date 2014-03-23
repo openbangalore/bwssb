@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from KG Tower tank 1 towards Palace Guttahalli ,Vyali kawal Area.kml</name>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from KG Tower tank 1 towards Palace Guttahalli ,Vyali kawal Area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5818417197,13.0118487512,0 77.58193903420001,13.0118298547,0 77.5819191083,13.0113651285,0 77.58184820770001,13.0113019616,0 77.58192121170001,13.0112622027,0 77.5820147373,13.0112541005,0 77.5820483599,13.0112523315,0 77.58206175230001,13.0108506182,0 77.5820686414,13.0104800442,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

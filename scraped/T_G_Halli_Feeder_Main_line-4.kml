@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T G Halli Feeder Main line-4.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>T G Halli Feeder Main line</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.54881193919999,13.0061694436,0 77.54923060829999,13.0063181663,0 77.5498981163,13.0066254576,0 77.5502054473,13.0067928883,0 77.5507973181,13.0071191002,0 77.55107444070001,13.007232608,0 77.5517498156,13.0073280457,0 77.5520671148,13.0073737452,0 77.5523125929,13.0074778482,0 77.5525777634,13.0077370956,0 77.5528283582,13.0078988447,0 77.5532738772,13.0080897428,0 77.5538423182,13.0083504417,0 77.5544060526,13.0085934326,0 77.55509828140001,13.0090082476,0 77.5561635326,13.0096057904,0 77.5568691618,13.0100027146,0 77.55756474019999,13.0103020946,0 77.5588957712,13.0109330853,0 77.56392480149999,13.011069154,0 77.56478437040001,13.0111541857,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

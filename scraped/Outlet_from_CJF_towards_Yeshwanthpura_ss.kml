@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from CJF towards Yeshwanthpura ss.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from CJF towards Yeshwanthpura ss</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5657155477,13.0131170785,0 77.5653375906,13.0142921066,0 77.56432015830001,13.0149188902,0 77.5613123981,13.0166290646,0 77.5587921228,13.0180977504,0 77.5588673452,13.0187758803,0 77.5579591427,13.019597579,0 77.5529493194,13.0236437279,0 77.55141080590001,13.0248158381,0 77.55120245809999,13.0254202723,0 77.55113579819999,13.028432842,0 77.55107189500001,13.0298103458,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

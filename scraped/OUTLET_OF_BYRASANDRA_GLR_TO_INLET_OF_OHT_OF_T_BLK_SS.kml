@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OUTLET OF BYRASANDRA GLR TO INLET OF OHT OF T BLK SS.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>OUTLET OF BYRASANDRA GLR TO INLET OF OHT OF T BLK S/S</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.58857986130001,12.9364361347,0 77.589591615,12.9364892631,0 77.5896885096,12.9363128024,0 77.5897359887,12.9361307809,0 77.589688932,12.9357560448,0 77.58966319370001,12.9356534221,0 77.59018738100001,12.9356300608,0 77.59105068149999,12.9355851741,0 77.59167332360001,12.9355366249,0 77.5926843682,12.9354600062,0 77.5927518557,12.9354530821,0 77.59272570730001,12.9346040756,0 77.5926892591,12.9335989517,0 77.5926434509,12.9325285926,0 77.5926222913,12.9315183849,0 77.5926202113,12.9311200065,0 77.59258519540001,12.9299728501,0 77.5925489783,12.9287092509,0 77.5925422488,12.9286184263,0 77.5919138884,12.9286189889,0 77.5916706747,12.9286214051,0 77.5916736506,12.928348701,0 77.5916522318,12.9279569441,0 77.5916443886,12.9277581969,0 77.59165028210001,12.9272071085,0 77.59162810150001,12.9267415098,0 77.59161375719999,12.9261934628,0 77.59159665750001,12.9253784492,0 77.5915821936,12.9246791352,0 77.5915620305,12.9236664203,0 77.59184019430001,12.9236446063,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

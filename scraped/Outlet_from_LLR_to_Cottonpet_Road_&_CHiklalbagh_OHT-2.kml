@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT-2.kml</name>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.58522295189999,12.9835450929,0 77.5855054379,12.9834640155,0 77.5858985215,12.9833509913,0 77.5859566179,12.9825020084,0 77.5869535696,12.9819910148,0 77.586721844,12.9816271533,0 77.5865692102,12.9813930251,0 77.5863628643,12.9811467996,0 77.5862740824,12.9810191595,0 77.5861006709,12.9807695912,0 77.58598137529999,12.9806056768,0 77.58591796819999,12.9805104171,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

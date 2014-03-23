@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from CJF towards Jayamahal and East.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from CJF towards Jayamahal and East</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5665804522,13.0114546658,0 77.56675241169999,13.0111087488,0 77.5687904767,13.0120638459,0 77.5694282708,13.0115029599,0 77.57000578810001,13.0107705628,0 77.5708332551,13.0096914735,0 77.57137156740001,13.0089403403,0 77.57171625780001,13.0083249871,0 77.5724724155,13.0078967838,0 77.5738911694,13.0074237596,0 77.57521972160001,13.0076591734,0 77.57584489990001,13.0077677043,0 77.576893543,13.0073365854,0 77.5778350322,13.006916089,0 77.5785625156,13.0065455241,0 77.5791945742,13.0063766967,0 77.5806104321,13.0056263864,0 77.5824320091,13.0045086978,0 77.58395330880001,13.0035852177,0 77.5849377997,13.0030829998,0 77.5891062562,13.0016789465,0 77.5932382319,13.0009923007,0 77.59423601500001,13.0008341284,0 77.5949084313,13.0007987225,0 77.5951355596,13.0001367187,0 77.5977919334,12.9996081761,0 77.59850821640001,12.9995723224,0 77.5998186022,12.9999234917,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

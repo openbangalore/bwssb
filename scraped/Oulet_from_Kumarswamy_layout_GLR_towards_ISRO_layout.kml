@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oulet from Kumarswamy layout GLR towards ISRO layout.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Oulet from Kumarswamy layout GLR towards ISRO layout</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5584794156,12.9058742539,0 77.55866655449999,12.9060228696,0 77.5587372298,12.9060758432,0 77.5588607352,12.9061741672,0 77.5590045406,12.9062915578,0 77.55910879770001,12.9063822734,0 77.559248803,12.9064937382,0 77.5593964932,12.9066253091,0 77.5594554435,12.9066747283,0 77.5594818065,12.9066967937,0 77.5595200951,12.9067182147,0 77.55959690669999,12.9067916825,0 77.5596809202,12.9068688354,0 77.55981251,12.9069803822,0 77.5598516422,12.9070121061,0 77.55999585470001,12.9071235291,0 77.5602415347,12.9073205157,0 77.5602772301,12.9073547007,0 77.5603154034,12.9073760856,0 77.5603270317,12.9073883861,0 77.5603875867,12.9074369943,0 77.56069362949999,12.9076876994,0 77.56099544760001,12.9079365193,0 77.5612534533,12.908159408,0 77.561547824,12.9084046645,0 77.5617951298,12.9085776662,0 77.5619546894,12.9086869932,0 77.5621431635,12.9088151238,0 77.56221965420001,12.9088652745,0 77.5623739135,12.9089495424,0 77.5624017669,12.9089626339,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

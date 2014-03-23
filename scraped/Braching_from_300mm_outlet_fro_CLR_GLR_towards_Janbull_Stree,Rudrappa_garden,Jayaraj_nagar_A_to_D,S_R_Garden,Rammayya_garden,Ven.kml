@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Braching from 300mm outlet fro CLR GLR towards Janbull Stree,Rudrappa garden,Jayaraj nagar A to D,S R Garden,Rammayya garden,Ven.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Braching from 300mm outlet fro CLR GLR towards Janbull Stree,Rudrappa garden,Jayaraj nagar A to D,S R Garden,Rammayya garden,Venkatappa garden</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6181545394,12.9643414283,0 77.6180408212,12.9642971566,0 77.6185273617,12.9632787731,0 77.6188463129,12.9625489121,0 77.61806871269999,12.9623033635,0 77.6178976763,12.9622620585,0 77.6179911552,12.9618786698,0 77.6179939796,12.9616826365,0 77.6181505688,12.9612747099,0 77.6182702162,12.9610631597,0 77.61841030879999,12.9609422353,0 77.61846619560001,12.9606930816,0 77.61853420440001,12.9602047758,0 77.6186260324,12.9596636437,0 77.6186697218,12.9591803632,0 77.61866986859999,12.9591361411,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

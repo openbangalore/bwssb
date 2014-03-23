@@ -1,0 +1,6439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>C1-SS-PL</name>
+	<Folder>
+		<name>C1_PL</name>
+		<Document>
+			<name>c1_ws</name>
+			<Style id="line10">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line11">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line120</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line104</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="line110">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line13</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line105</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="line111">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line17</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line107</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="line112">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line1</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line1011</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line100">
+				<LineStyle>
+					<color>ff000000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line1">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line113">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line15</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line103</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line101">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line114">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line124</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line106</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="line115">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line119</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line1014</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line12">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line13">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line102">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line14">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line103">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line15">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line116">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line19</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line1013</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line16">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line17">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line104">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line18">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line19">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line117">
+				<LineStyle>
+					<color>ff000000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line118">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line14</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line108</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line119">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line1110">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line121</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line1010</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line120">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line105">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line1111">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line123</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line1012</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line106">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line107">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line108">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line1112">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line122</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line109</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line109">
+				<LineStyle>
+					<color>b2ff0000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line1010">
+				<LineStyle>
+					<color>ff000000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line1113">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line16</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line101</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line121">
+				<LineStyle>
+					<color>ff000000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line1011">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line122">
+				<LineStyle>
+					<color>b2ff0000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line123">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line1012">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line1114">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line12</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line10</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line1013">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line1115">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line18</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line102</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="line124">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="line1014">
+				<LineStyle>
+					<color>ff0000fe</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="line1116">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#line117</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#line100</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Folder id="FeatureLayer0">
+				<name>c1_ws</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark>
+					<name>Inlet: Inlet to HGR-2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Inlet to HGR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>1750</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>MS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Inlet to HGR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1112</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.59253200000001,12.982711,0 77.592528,12.982608,0 77.593,12.982458,0 
+							</coordinates>
+						</LineString>
+						<LineString>
+							<coordinates>
+								77.59469300000001,12.981842,0 77.594723,12.981745,0 77.59357900000001,12.980532,0 77.59231699999999,12.979206,0 77.59092800000001,12.977805,0 77.591245,12.977362,0 77.591184,12.977057,0 77.59096700000001,12.976896,0 77.59052300000001,12.976327,0 77.59019000000001,12.975298,0 77.5904,12.974799,0 77.589989,12.973713,0 77.590031,12.973062,0 77.590294,12.97282,0 77.589657,12.970668,0 77.589157,12.968974,0 77.58886099999999,12.967923,0 77.58884500000001,12.967683,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from HGR to inlet to KG tower GLR-2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from HGR to inlet to KG tower GLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>600</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from HGR to inlet to KG tower GLR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line110</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.584737,12.996045,0 77.585065,12.994553,0 77.585224,12.99338,0 77.585433,12.992434,0 77.58562600000001,12.991069,0 77.586004,12.991018,0 77.588509,12.990515,0 77.588672,12.990436,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from HGR Inlet to CJF-2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet for HGR Inlet to CJF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>900</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>MS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet for HGR Inlet to CJF</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line114</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.58457900000001,12.996047,0 77.58486000000001,12.994758,0 77.585252,12.992603,0 77.585576,12.990938,0 77.58868,12.990341,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet for HGR Inlet to CJF-2</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from HGR Inlet to CJF</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>700</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>MS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from HGR Inlet to CJF</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line116</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.58446100000001,12.996049,0 77.584587,12.995418,0 77.585015,12.993286,0 77.585393,12.990892,0 77.585928,12.990755,0 77.58866399999999,12.990202,0 77.588764,12.988074,0 77.58884999999999,12.988049,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00008">
+					<name>Outlet: 	Outlet from CJF 14mg tank Inlet to LLR GLR</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from CJF 14mg tank Inlet to  LLR GLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP59</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>675</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1975</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>06-11-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>CHANDASHAKR(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8036_A1,GQ8036_A5+7837-B5</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>1065.23742</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>03-03-2011</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from CJF 14mg tank Inlet to  LLR GLR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1111</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.58466900000001,12.983158,0 77.58468600000001,12.983611,0 77.584687,12.98362,0 77.584689,12.983688,0 77.58469,12.983697,0 77.58469,12.983703,0 77.58469,12.983708,0 77.584692,12.983741,0 77.584692,12.983745,0 77.584692,12.983755,0 77.584603,12.983762,0 77.58451100000001,12.98377,0 77.584434,12.983791,0 77.584182,12.983881,0 77.583568,12.984117,0 77.58356499999999,12.984122,0 77.58356499999999,12.984123,0 77.58355899999999,12.98412,0 77.58319400000001,12.984224,0 77.582953,12.984243,0 77.582441,12.984256,0 77.58233900000001,12.984248,0 77.582166,12.984459,0 77.581958,12.984714,0 77.581791,12.984889,0 77.581481,12.985197,0 77.581395,12.98529,0 77.58146499999999,12.985364,0 77.58148199999999,12.985364,0 77.581475,12.985382,0 77.58148,12.98539,0 77.581446,12.985432,0 77.581431,12.98545,0 77.581052,12.985916,0 77.58100399999999,12.986021,0 77.58072799999999,12.986604,0 77.580725,12.98661,0 77.58071200000001,12.986637,0 77.580681,12.986701,0 77.58042399999999,12.987242,0 77.580326,12.987436,0 77.58031,12.987468,0 77.58011999999999,12.987844,0 77.580043,12.988008,0 77.579914,12.988281,0 77.579898,12.988314,0 77.579853,12.988412,0 77.579565,12.98904,0 77.57931600000001,12.989568,0 77.579295,12.989596,0 77.579269,12.989581,0 77.579115,12.989488,0 77.578992,12.989571,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Inlet: Inlet from HGR GLR (9 MG) to LLR</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Inlet from HGR GLR (9 MG) to LLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP138</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>675</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1970</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>12-12-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>GANGADAR(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8036_A2,GQ8036_A3</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>586.51293</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Inlet from HGR GLR (9 MG) to LLR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>586.512921</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1112</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.585266,12.983607,0 77.585516,12.983582,0 77.585886,12.983702,0 77.586561,12.983921,0 77.587423,12.984174,0 77.587603,12.984217,0 77.58767899999999,12.984235,0 77.58796599999999,12.984304,0 77.587998,12.984311,0 77.588016,12.984321,0 77.588016,12.984321,0 77.58802,12.98431,0 77.588026,12.984308,0 77.58803,12.984306,0 77.588128,12.984438,0 77.588448,12.984885,0 77.58852400000001,12.985216,0 77.58857,12.985351,0 77.58875999999999,12.985874,0 77.58884000000001,12.986058,0 77.588981,12.986466,0 77.588996,12.986471,0 77.58900199999999,12.986501,0 77.589024,12.986564,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from HGR GLR (9 MG) to LLR</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from HGR GLR (9 MG) to LLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP124</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>375</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>MS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1999</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>28-11-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>GANGADAR(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8038_B2</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>1799.78625</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>22-03-2006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from HGR GLR (9 MG) to LLR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>1799.786291</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1115</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.58895200000001,12.987149,0 77.588925,12.987102,0 77.588939,12.986952,0 77.58891199999999,12.986832,0 77.588908,12.986816,0 77.58890100000001,12.986785,0 77.588898,12.98677,0 77.588893,12.986747,0 77.58887300000001,12.986657,0 77.588871,12.986649,0 77.58877699999999,12.986236,0 77.58862499999999,12.985876,0 77.588464,12.98549,0 77.58827599999999,12.985009,0 77.58816,12.984747,0 77.58798899999999,12.984597,0 77.587777,12.984511,0 77.58772,12.984494,0 77.58755600000001,12.984459,0 77.587549,12.984458,0 77.587075,12.984323,0 77.586617,12.984191,0 77.58639100000001,12.984125,0 77.58602500000001,12.984016,0 77.586079,12.98387,0 77.585656,12.983755,0 77.585348,12.983677,0 77.585347,12.983669,0 77.585345,12.983656,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet From LLR to Chikkapet Circle</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet From LLR to Chikkapet Circle</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP27</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1950</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>27-10-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>NARAYANA(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ7836_B5,GQ7836_B1</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>699.29982</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>04-12-2004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet From LLR to Chikkapet Circle</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>699.299795</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1114</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.584857,12.983415,0 77.584915,12.983018,0 77.58197800000001,12.979899,0 77.581816,12.979896,0 77.581858,12.979771,0 77.581772,12.97968,0 77.581695,12.979536,0 77.581435,12.979097,0 77.581362,12.978984,0 77.58134800000001,12.978963,0 77.581312,12.978906,0 77.581028,12.978494,0 77.580821,12.978163,0 77.58053700000001,12.977744,0 77.580406,12.977549,0 77.580326,12.977429,0 77.580134,12.977145,0 77.58004,12.977021,0 77.579988,12.976932,0 77.57993,12.976833,0 77.57987900000001,12.976747,0 77.579876,12.976742,0 77.579864,12.976724,0 77.579853,12.976706,0 77.579849,12.976701,0 77.579838,12.976683,0 77.57949600000001,12.976204,0 77.579382,12.976042,0 77.579086,12.975612,0 77.57901800000001,12.975508,0 77.57896700000001,12.975429,0 77.578672,12.975008,0 77.578296,12.974479,0 77.578293,12.974474,0 77.578281,12.974458,0 77.57827500000001,12.974448,0 77.578259,12.974425,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line11</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.573404,12.974289,0 77.573448,12.974528,0 77.573691,12.974469,0 77.573919,12.974421,0 77.574288,12.974361,0 77.57451500000001,12.974331,0 77.57466700000001,12.974344,0 77.57481799999999,12.974365,0 77.575051,12.974411,0 77.57521300000001,12.974463,0 77.575532,12.974523,0 77.575608,12.974758,0 77.575676,12.974978,0 77.57579699999999,12.975281,0 77.57585899999999,12.975447,0 77.57590999999999,12.975446,0 77.57613600000001,12.975367,0 77.576441,12.975235,0 77.57668200000001,12.975136,0 77.577105,12.974936,0 77.577563,12.974737,0 77.578059,12.974509,0 77.578553,12.974291,0 77.579069,12.974062,0 77.57938799999999,12.97392,0 77.580091,12.973572,0 77.580433,12.973424,0 77.58082400000001,12.973247,0 77.58095899999999,12.973193,0 77.58116699999999,12.973161,0 77.581198,12.973211,0 77.58123500000001,12.973271,0 77.58157300000001,12.973756,0 77.581971,12.974322,0 77.58222000000001,12.97466,0 77.582418,12.974929,0 77.58263700000001,12.975265,0 77.582824,12.975519,0 77.58319899999999,12.976065,0 77.583388,12.976298,0 77.5836,12.976612,0 77.58393700000001,12.977148,0 77.58403199999999,12.977289,0 77.584294,12.977731,0 77.584447,12.978038,0 77.584593,12.97831,0 77.584683,12.978452,0 77.584795,12.978685,0 77.584924,12.978919,0 77.58502900000001,12.979106,0 77.585179,12.979362,0 77.585269,12.979514,0 77.58545100000001,12.979829,0 77.58573,12.980251,0 77.58576600000001,12.980294,0 77.585802,12.980336,0 77.58591800000001,12.98051,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1113</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.58591800000001,12.98051,0 77.585981,12.980606,0 77.586101,12.98077,0 77.586274,12.981019,0 77.58636300000001,12.981147,0 77.586569,12.981393,0 77.586722,12.981627,0 77.58695400000001,12.981991,0 77.586921,12.982008,0 77.58595699999999,12.982502,0 77.585899,12.983351,0 77.585505,12.983464,0 77.585223,12.983545,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from LLR to Cottonpet Road &amp; CHiklalbagh OHT</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line112</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.58610400000001,12.980498,0 77.586168,12.980593,0 77.586287,12.980757,0 77.58646,12.981007,0 77.58654900000001,12.981134,0 77.586755,12.981381,0 77.58690799999999,12.981615,0 77.58714000000001,12.981979,0 77.58696999999999,12.982065,0 77.58614300000001,12.98249,0 77.586085,12.983339,0 77.58569799999999,12.983518,0 77.58528699999999,12.983568,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from HGR GLR to Railway Station</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from HGR GLR to Railway Station</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>600</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from HGR GLR to Railway Station</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line113</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.57086200000001,12.977498,0 77.570868,12.977625,0 77.570891,12.978084,0 77.57098000000001,12.979,0 77.57100699999999,12.979379,0 77.571062,12.979748,0 77.571161,12.980315,0 77.57121600000001,12.980355,0 77.571478,12.980308,0 77.571974,12.980342,0 77.572476,12.98046,0 77.57252699999999,12.980468,0 77.57336700000001,12.980608,0 77.574491,12.980803,0 77.57495299999999,12.98085,0 77.575164,12.980836,0 77.576943,12.980703,0 77.577765,12.980614,0 77.578705,12.980583,0 77.580299,12.980427,0 77.58068,12.980345,0 77.581577,12.980085,0 77.581816,12.979896,0 77.58203500000001,12.979723,0 77.58311000000001,12.979013,0 77.58430900000001,12.978169,0 77.584563,12.978496,0 77.58477499999999,12.978846,0 77.585021,12.979251,0 77.58570400000001,12.980306,0 77.585751,12.980378,0 77.586046,12.980823,0 77.586473,12.981405,0 77.586804,12.981869,0 77.586921,12.982008,0 77.58696999999999,12.982065,0 77.58704400000001,12.982152,0 77.587418,12.982798,0 77.587453,12.983049,0 77.587496,12.983155,0 77.58716200000001,12.983987,0 77.58804499999999,12.984252,0 77.588405,12.984769,0 77.588523,12.984997,0 77.588579,12.985126,0 77.58864800000001,12.985311,0 77.588904,12.985842,0 77.58900300000001,12.986144,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from LLR to SJP Road Juction (Supply to Avaneue Cross Roads)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from LLR to SJP Road Juction (Supply to Avaneue Cross Roads)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP190</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1950</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>24-12-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>MARKONDAIHA(DRIVER) +CHOWDE GOWDA(AE)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8036_A2</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>1207.12352</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>26-09-2004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from LLR to SJP Road Juction (Supply to Avaneue Cross Roads)</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>1207.123533</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line115</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.584998,12.983473,0 77.585106,12.983146,0 77.585121,12.982888,0 77.585053,12.982823,0 77.584847,12.982582,0 77.58483800000001,12.982193,0 77.58481500000001,12.98181,0 77.584797,12.981431,0 77.584784,12.981067,0 77.584789,12.980692,0 77.584778,12.980321,0 77.584771,12.979936,0 77.58477000000001,12.979849,0 77.584761,12.979177,0 77.584763,12.978999,0 77.584765,12.978888,0 77.584766,12.978841,0 77.58477499999999,12.978846,0 77.584772,12.978821,0 77.584766,12.978795,0 77.58477000000001,12.978794,0 77.5848,12.978779,0 77.584762,12.978711,0 77.584417,12.978126,0 77.584403,12.978117,0 77.584341,12.978071,0 77.58429200000001,12.978035,0 77.584273,12.978022,0 77.58424700000001,12.978003,0 77.58417900000001,12.977866,0 77.584186,12.977827,0 77.58419000000001,12.977806,0 77.584194,12.977778,0 77.584206,12.977714,0 77.58421,12.977688,0 77.584084,12.977475,0 77.58398,12.977302,0 77.583888,12.977149,0 77.583871,12.977121,0 77.583792,12.97699,0 77.583724,12.97689,0 77.583624,12.976731,0 77.58347000000001,12.976494,0 77.583365,12.976338,0 77.58315399999999,12.976065,0 77.58305900000001,12.975938,0 77.58288899999999,12.975679,0 77.582624,12.975303,0 77.58254,12.97518,0 77.582337,12.974886,0 77.582249,12.974766,0 77.58204499999999,12.974507,0 77.581891,12.974296,0 77.581763,12.974107,0 77.581484,12.973711,0 77.581228,12.973358,0 77.581158,12.97326,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from LLR to Kumara Park GLR</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from LLR to Kumara Park GLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>450</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>02-03-2012</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from LLR to Kumara Park GLR</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line111</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.579177,12.989843,0 77.579257,12.98981,0 77.58031800000001,12.987628,0 77.581073,12.986026,0 77.58136500000001,12.985639,0 77.581614,12.985302,0 77.582162,12.984793,0 77.582488,12.984444,0 77.582644,12.984415,0 77.583448,12.98433,0 77.583782,12.984212,0 77.584372,12.983987,0 77.584818,12.983889,0 77.58492800000001,12.983685,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Tapping: Taping from Railway line ( inlet to Banappa park)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Taping from Railway line ( inlet to Banappa park)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>600</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>00:00:00</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Taping from Railway line ( inlet to Banappa park)</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1116</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.581217,12.9732,0 77.581198,12.973211,0 77.581029,12.973311,0 77.581135,12.973407,0 77.58298499999999,12.975984,0 77.58430900000001,12.978169,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Tapping: Taping from Railway line ( inlet to Banappa park)</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Taping from Railway line ( inlet to Banappa park)</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP195</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>675</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1960</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>29-11-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>Basavaraj(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8035_B1</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C3A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>1051.33567</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Taping from Railway line ( inlet to Banappa park)</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1110</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.581217,12.9732,0 77.581214,12.973169,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Inlet: From LLR towards ward no 118 &amp; 145</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>From LLR towards ward no 118 &amp; 145</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP149</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>375</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1970</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td>Stage 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>14-12-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>GANGADAR(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8036_B2</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>1917.06215</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>From LLR towards ward no 118 &amp; 145</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line1112</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.58520300000001,12.982969,0 77.585295,12.982961,0 77.585331,12.98296,0 77.58535000000001,12.982959,0 77.58535999999999,12.982959,0 77.585331,12.982401,0 77.585328,12.982174,0 77.585326,12.981951,0 77.58530500000001,12.981497,0 77.585289,12.98107,0 77.585289,12.981059,0 77.58528200000001,12.980922,0 77.585275,12.980785,0 77.585269,12.980674,0 77.585352,12.980611,0 77.585656,12.980358,0 77.585677,12.980341,0 77.58569900000001,12.980323,0 77.58570400000001,12.980306,0 77.585705,12.980302,0 77.585705,12.980302,0 77.585712,12.980281,0 77.58573,12.980289,0 77.585756,12.980301,0 77.585758,12.9803,0 77.58576600000001,12.980294,0 77.585793,12.980273,0 77.585825,12.980248,0 77.585746,12.980145,0 77.58565400000001,12.980012,0 77.585495,12.979778,0 77.58538299999999,12.97959,0 77.585284,12.979421,0 77.58519,12.979264,0 77.58514200000001,12.979178,0 77.584937,12.978811,0 77.584704,12.978383,0 77.584555,12.978069,0 77.584547,12.97805,0 77.584846,12.97778,0 77.585171,12.977548,0 77.585267,12.977484,0 77.58584500000001,12.977099,0 77.585917,12.977064,0 77.586139,12.97696,0 77.58635200000001,12.976859,0 77.58689,12.97647,0 77.587164,12.976273,0 77.587193,12.97599,0 77.587216,12.975768,0 77.58722400000001,12.975695,0 77.58712800000001,12.975474,0 77.58710600000001,12.975424,0 77.58696500000001,12.975107,0 77.586934,12.975035,0 77.586794,12.974671,0 77.586776,12.974599,0 77.58671200000001,12.974332,0 77.586698,12.974277,0 77.58668299999999,12.97416,0 77.586713,12.973876,0 77.586755,12.973556,0 77.586765,12.973478,0 77.58681900000001,12.973072,0 77.586874,12.972664,0 77.58692600000001,12.972261,0 77.58693599999999,12.972188,0 77.586951,12.972071,0 77.58698,12.971855,0 77.587008,12.971654,0 77.587011,12.971632,0 77.58703,12.971495,0 77.58703300000001,12.971477,0 77.587036,12.97145,0 77.58707800000001,12.971148,0 77.587091,12.971057,0 77.587148,12.97065,0 77.587203,12.970256,0 77.587261,12.969846,0 77.587324,12.969376,0 77.58736,12.969032,0 77.587418,12.96862,0 77.587451,12.968358,0 77.587462,12.968267,0 77.587469,12.968204,0 77.58748300000001,12.967937,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark>
+					<name>Outlet: Outlet from CJF to Kumarapark area</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Outlet from CJF to Kumarapark area</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>WP125</td>
+
+</tr>
+
+<tr>
+
+<td>FLOWTYPE</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DIAMETER</td>
+
+<td>450</td>
+
+</tr>
+
+<tr>
+
+<td>MATERIAL</td>
+
+<td>CI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PRESSURECL</td>
+
+<td>Unknown</td>
+
+</tr>
+
+<tr>
+
+<td>MONTH_INST</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>YEAR_INSTA</td>
+
+<td>1975</td>
+
+</tr>
+
+<tr>
+
+<td>JOINTTYPE</td>
+
+<td>Lead joint with hemp yarn</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SS_MANAGED</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>06-12-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>GANGADAR(VM)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ7836_B4</td>
+
+</tr>
+
+<tr>
+
+<td>SSID</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PIPE_LENGT</td>
+
+<td>1142.52417</td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORDER</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DRAWINGS_A</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>COST_EVALU</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GIS_UPDATI</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_IN</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>STATUS_OF_</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>WORK_ORD_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>WORK_ORD_2</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>BUDGETHEAD</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NEW_DIAMT</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REPLACD_YR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FINAL__AMO</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>REF_ST_RRN</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>REF_END_RR</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>CONTRACTOR</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME_WORK</td>
+
+<td>Outlet from CJF to Kumarapark area</td>
+
+</tr>
+
+<tr>
+
+<td>SHAPE_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#line118</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								77.57290500000001,12.983629,0 77.57291100000001,12.983516,0 77.572913,12.983505,0 77.572947,12.983268,0 77.572977,12.983061,0 77.572986,12.982867,0 77.57298400000001,12.982796,0 77.572958,12.982619,0 77.572936,12.982528,0 77.57289400000001,12.982353,0 77.57288,12.982316,0 77.57284900000001,12.982159,0 77.572825,12.982024,0 77.572802,12.981903,0 77.57274,12.981575,0 77.57265,12.981124,0 77.572587,12.98081,0 77.57257900000001,12.980706,0 77.57255000000001,12.980572,0 77.57252699999999,12.980468,0 77.572526,12.980461,0 77.57247200000001,12.98022,0 77.57245,12.980086,0 77.572442,12.979961,0 77.572457,12.979868,0 77.57248800000001,12.979782,0 77.571827,12.979661,0 77.57143000000001,12.979601,0 77.57115,12.979559,0 77.571107,12.979129,0 77.571079,12.978739,0 77.57107000000001,12.978604,0 77.571057,12.97837,0 77.57104,12.978091,0 77.571028,12.977618,0 77.57100800000001,12.977619,0 77.570868,12.977625,0 77.570793,12.977628,0 77.570802,12.977367,0 77.570814,12.977019,0 77.570838,12.976741,0 77.570865,12.976284,0 77.570852,12.976171,0 77.57076100000001,12.97589,0 77.57074,12.975826,0 77.570711,12.975779,0 77.570686,12.97574,0 77.570677,12.97569,0 77.57063700000001,12.975485,0 77.570618,12.975322,0 77.57060199999999,12.97516,0 77.570599,12.974926,0 77.570593,12.974765,0 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Document>
+			<name>LLR_GLR1.kml</name>
+			<Style id="IconStyle000">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+				<PolyStyle>
+					<color>ff000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="IconStyle00">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#IconStyle000</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#IconStyle001</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="IconStyle001">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+				<PolyStyle>
+					<color>ff000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Placemark id="ID_00056">
+				<name>GLR: LLR1</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>R1</td>
+
+</tr>
+
+<tr>
+
+<td>TYPE__OHT_</td>
+
+<td>GLR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>LLR</td>
+
+</tr>
+
+<tr>
+
+<td>VOLUME__ML</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VOLUME_MG_</td>
+
+<td>1.75</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_CO</td>
+
+<td>1899</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AVERAGE_GR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>MAXIMUM_WA</td>
+
+<td>2.5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SKETCH_AVA</td>
+
+<td>N</td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>24-12-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>Chowdai Gowda(AE)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8036_A2</td>
+
+</tr>
+
+<tr>
+
+<td>SS</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PICTURE</td>
+
+<td>N:\GIS\photos\Reservoir\llr_glr1.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>ENABLED</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle00</styleUrl>
+				
+			</Placemark>
+		</Document>
+		<Document>
+			<name>LLR_GLR2.kml</name>
+			<Style id="IconStyle0000">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+				<PolyStyle>
+					<color>ff000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="IconStyle002">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#IconStyle0000</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#IconStyle0010</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="IconStyle0010">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+				<PolyStyle>
+					<color>ff000000</color>
+					<outline>0</outline>
+				</PolyStyle>
+			</Style>
+			<Placemark id="ID_00057">
+				<name>GLR: LLR2</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LLR</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FIELD_ID</td>
+
+<td>R2</td>
+
+</tr>
+
+<tr>
+
+<td>TYPE__OHT_</td>
+
+<td>GLR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>LLR</td>
+
+</tr>
+
+<tr>
+
+<td>VOLUME__ML</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>VOLUME_MG_</td>
+
+<td>1.75</td>
+
+</tr>
+
+<tr>
+
+<td>DATE_OF_CO</td>
+
+<td>1899</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AVERAGE_GR</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>MAXIMUM_WA</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SKETCH_AVA</td>
+
+<td>N</td>
+
+</tr>
+
+<tr>
+
+<td>REMARKS</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SURVEYDATE</td>
+
+<td>24-12-2001</td>
+
+</tr>
+
+<tr>
+
+<td>BWSSB_SURV</td>
+
+<td>Chowdai Gowda(AE)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MAPS</td>
+
+<td>GQ8036_A2</td>
+
+</tr>
+
+<tr>
+
+<td>SS</td>
+
+<td>C1B</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PICTURE</td>
+
+<td>N:\GIS\photos\Reservoir\llr_glr2.jpg</td>
+
+</tr>
+
+<tr>
+
+<td>ENABLED</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#IconStyle002</styleUrl>
+				
+			</Placemark>
+		</Document>
+	</Folder>
+</Folder>
+</kml>

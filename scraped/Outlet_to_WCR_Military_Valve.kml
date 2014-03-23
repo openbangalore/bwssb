@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to WCR Military Valve.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to WCR Military Valve</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5505824246,12.9976242912,0 77.5502454402,12.9990507014,0 77.5499620913,13.0004999623,0 77.54986560259999,13.0010394922,0 77.54966204270001,13.0026187679,0 77.5494937794,13.0038129955,0 77.5492220296,13.0048620534,0 77.54920203010001,13.0052084812,0 77.5492175974,13.0054224527,0 77.54934576070001,13.0058826709,0 77.5495282321,13.0062905835,0 77.5495861701,13.0063580191,0 77.5495743697,13.0063971337,0 77.54960864570001,13.0064384758,0 77.54966717959999,13.0064978285,0 77.5496750559,13.0065227707,0 77.549833351,13.0067062708,0 77.5498140696,13.0067197411,0 77.5498433568,13.006765758,0 77.5502887688,13.0073865028,0 77.5503471392,13.0077476572,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

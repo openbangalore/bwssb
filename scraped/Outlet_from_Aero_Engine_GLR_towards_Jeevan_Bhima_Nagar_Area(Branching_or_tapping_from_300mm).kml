@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Aero Engine GLR towards Jeevan Bhima Nagar Area(Branching or tapping from 300mm).kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Aero Engine GLR towards Jeevan Bhima Nagar Area(Branching or tapping from 300mm)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.64774238139999,12.9689508503,0 77.6481010408,12.9689081459,0 77.6488748117,12.9687997647,0 77.6495167921,12.9686961114,0 77.65017641359999,12.9685730797,0 77.65067825680001,12.9684471372,0 77.6507678318,12.9684247688,0 77.6508207684,12.968410345,0 77.6511968988,12.9683078592,0 77.6512109279,12.9683040366,0 77.6512266709,12.9682997468,0 77.6516978081,12.9681713736,0 77.65230489690001,12.9680895252,0 77.6526440777,12.9680431555,0 77.6546102473,12.9677814414,0 77.654710267,12.9677668698,0 77.6548171945,12.9677522277,0 77.6549787729,12.9677336401,0 77.6549977943,12.967731276,0 77.65499781440001,12.9677312587,0 77.65522600360001,12.9677028858,0 77.65544509910001,12.9676791939,0 77.65560439870001,12.9676628877,0 77.65572974689999,12.9676480572,0 77.65584305429999,12.9676378666,0 77.6559798422,12.9676167992,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

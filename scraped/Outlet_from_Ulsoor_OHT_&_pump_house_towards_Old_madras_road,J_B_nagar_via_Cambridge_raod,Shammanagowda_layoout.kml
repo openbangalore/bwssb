@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from Ulsoor OHT &amp; pump house towards Old madras road,J B nagar via Cambridge raod,Shammanagowda layoout.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from Ulsoor OHT &amp; pump house towards Old madras road,J B nagar via Cambridge raod,Shammanagowda layoout</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.62145677220001,12.9726653196,0 77.6214405767,12.9727749093,0 77.6214965832,12.9727901546,0 77.62155721880001,12.9728076117,0 77.62156587769999,12.9728097829,0 77.6219005138,12.9729870927,0 77.6224481724,12.9732740517,0 77.6224539884,12.9732796394,0 77.6224684988,12.9732907858,0 77.6229500737,12.9735897026,0 77.6232728601,12.9737897152,0 77.6236510171,12.973999332,0 77.6252240993,12.9749467214,0 77.62539571000001,12.9750849818,0 77.6254151346,12.9751006315,0 77.6254232652,12.975107325,0 77.62542481440001,12.9751085272,0 77.6254534497,12.9751307349,0 77.625734048,12.9753153599,0 77.62589811620001,12.9754232419,0 77.625958592,12.9754802238,0 77.6261144283,12.9756265839,0 77.62621443010001,12.975719303,0 77.6262225964,12.975729384,0 77.6263255241,12.9758265905,0 77.6265737011,12.9760488077,0 77.62658083869999,12.9760566323,0 77.6269656915,12.9764784857,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

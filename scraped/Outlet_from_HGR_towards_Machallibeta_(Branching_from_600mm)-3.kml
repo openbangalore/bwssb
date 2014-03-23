@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from HGR towards Machallibeta (Branching from 600mm)-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from HGR towards Machallibeta (Branching from 600mm)</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.61979214989999,13.0040845007,0 77.61977032980001,13.0040928363,0 77.61976669240001,13.0040942318,0 77.6193220792,13.0042648415,0 77.618913083,13.0044261553,0 77.6181534416,13.0047344253,0 77.6178058006,13.0048613181,0 77.6175241948,13.0049717228,0 77.6175058398,13.0049233483,0 77.6174918091,13.0048863684,0 77.6174618889,13.0048075101,0 77.6174546272,13.0047883722,0 77.6173200617,13.0044493091,0 77.61723738969999,13.0042712219,0 77.6171909916,13.0041719445,0 77.6169975701,13.0042361932,0 77.616836386,13.0042880778,0 77.6168205617,13.0042928213,0 77.6165989029,13.0043703349,0 77.61591592800001,13.0045027115,0 77.6158840877,13.0044301284,0 77.6157545464,13.0041063535,0 77.615647952,13.0038205916,0 77.61565931289999,13.0037913553,0 77.61566100660001,13.0037869964,0 77.6156262757,13.0037883511,0 77.6155755365,13.0036739738,0 77.6153817602,13.00318687,0 77.61520332729999,13.0027309925,0 77.61516761039999,13.0026397375,0 77.6151059672,13.0024797307,0 77.6151420823,13.0024475809,0 77.6151010394,13.0024281491,0 77.61506963799999,13.0023642495,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

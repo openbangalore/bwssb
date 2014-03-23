@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet Rajajinagar-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet Rajajinagar</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5579792856,12.983883245,0 77.55799760470001,12.9842983289,0 77.55799943780001,12.9843443013,0 77.5580135802,12.9846989082,0 77.5580224621,12.9849669172,0 77.5580267199,12.9850954047,0 77.5580350342,12.9852685445,0 77.55804358730001,12.9854466546,0 77.5580504509,12.9855700408,0 77.558063277,12.985800616,0 77.55806604,12.985881356,0 77.5580665409,12.9858959916,0 77.5580770096,12.9861778674,0 77.5580772438,12.9861828369,0 77.5580898786,12.9864502351,0 77.55810190299999,12.9867047055,0 77.5581044538,12.9867716275,0 77.5581144017,12.9870326657,0 77.5581142027,12.9870727061,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

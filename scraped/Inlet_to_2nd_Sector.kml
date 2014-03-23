@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to 2nd Sector.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to 2nd Sector</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6519673646,12.9121019171,0 77.65200718120001,12.9121050151,0 77.6520235213,12.910944813,0 77.65201018889999,12.910019723,0 77.6519905259,12.9091717993,0 77.65195479000001,12.9088322118,0 77.651866899,12.9082898844,0 77.6516286909,12.9070446492,0 77.65141605780001,12.9061916738,0 77.65135693240001,12.9056665771,0 77.6512890489,12.9053273154,0 77.65109808539999,12.9048350978,0 77.6508536508,12.9043539363,0 77.6507256693,12.9040748627,0 77.6504726247,12.9037935527,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

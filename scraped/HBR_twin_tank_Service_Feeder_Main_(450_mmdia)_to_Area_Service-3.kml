@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HBR twin tank Service Feeder Main (450 mmdia) to Area Service-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>HBR twin tank Service Feeder Main (450 mmdia) to Area Service</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.63943339879999,13.0159715298,0 77.63942061980001,13.0162303665,0 77.6394002154,13.0165762514,0 77.63938956929999,13.0169521084,0 77.63938791060001,13.0173479522,0 77.6394037561,13.0177393147,0 77.6394176681,13.0180862387,0 77.6394334532,13.0184718653,0 77.6394507166,13.0188589113,0 77.6394636065,13.0192474356,0 77.6394794993,13.0196431014,0 77.63950261220001,13.020030087,0 77.63952264930001,13.0204027632,0 77.63955651080001,13.0210170744,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

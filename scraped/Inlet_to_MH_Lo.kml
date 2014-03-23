@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to MH Lo.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to MH L/o</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5461283594,13.00885714,0 77.54584717260001,13.0083626114,0 77.54584436899999,13.0083267823,0 77.5458404075,13.0082969409,0 77.54582919310001,13.0082866918,0 77.5458364974,13.0082759213,0 77.5458364231,13.0082686437,0 77.5460432827,13.0082304091,0 77.5460527794,13.0082159906,0 77.54606395330001,13.0082254251,0 77.54616249990001,13.0082079471,0 77.5463596387,13.0081759096,0 77.54672221440001,13.0081119927,0 77.5467794603,13.008101049,0 77.54706162239999,13.0080471075,0 77.54780337690001,13.0079223166,0 77.54793986759999,13.0078959963,0 77.5479554161,13.0079117409,0 77.54796529860001,13.0078918029,0 77.5481459633,13.0078584749,0 77.5484489888,13.0078038989,0 77.5484602337,13.0078162255,0 77.5484650754,13.0078010729,0 77.5486478303,13.0077680864,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>INLET TO RT NAGAR OHT FROM 600MM.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>INLET TO RT NAGAR OHT FROM 600MM</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5912000336,13.0329519698,0 77.5912103198,13.0330032596,0 77.59121808019999,13.033046207,0 77.591227713,13.0330933204,0 77.5909454375,13.0331439519,0 77.5906766321,13.0332004237,0 77.5904501739,13.0332517149,0 77.590328825,13.0332791989,0 77.59026742899999,13.0332947523,0 77.5902371099,13.0333418272,0 77.590230242,13.0333524932,0 77.59014648909999,13.0333867951,0 77.589589667,13.0334694525,0 77.58920323610001,13.033526502,0 77.5888740276,13.0335770035,0 77.5885180168,13.0336289668,0 77.5883707462,13.0336507519,0 77.5882359269,13.0336702368,0 77.5882227031,13.0336718868,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

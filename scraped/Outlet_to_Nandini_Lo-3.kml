@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to Nandini Lo-3.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to Nandini L/o</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5543567233,13.0121164137,0 77.55437926400001,13.0112859679,0 77.5543965665,13.0101560105,0 77.5543955398,13.0097108724,0 77.5544015732,13.0094430885,0 77.55440466189999,13.0091734201,0 77.55440783349999,13.0090070161,0 77.5544094106,13.008825981,0 77.55441007500001,13.0087497867,0 77.5541202114,13.0086172758,0 77.554094986,13.0086279392,0 77.5540850556,13.008602479,0 77.55401820989999,13.0085719742,0 77.5535785623,13.0083399413,0 77.5535663042,13.0083466618,0 77.5535601687,13.0083325975,0 77.5534486752,13.0082792589,0 77.55276047530001,13.0080154379,0 77.55261201570001,13.0079973343,0 77.55207099090001,13.0079313569,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tapping from 1750 mm dia from HGR inlet line Ulsoor.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Tapping from 1750 mm dia from HGR inlet line Ulsoor</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6140389854,12.9757122416,0 77.6122659017,12.9763037361,0 77.6086726227,12.9773693479,0 77.608435249,12.9774426205,0 77.6081752938,12.9775235104,0 77.60784861099999,12.9776331569,0 77.6075753759,12.9777261327,0 77.6072207342,12.9778426313,0 77.606875777,12.9779530581,0 77.60669734619999,12.9780217758,0 77.60669380909999,12.9780814633,0 77.6066899656,12.9781072208,0 77.6066816205,12.9781319328,0 77.6066690271,12.9781548485,0 77.606652568,12.978175272,0 77.6066327432,12.9781925829,0 77.60661015469999,12.9782062553,0 77.60658548879999,12.978215874,0 77.60655949460001,12.9782211468,0 77.6065329617,12.9782219135,0 77.6065066961,12.9782181509,0 77.6064814954,12.9782099733,0 77.60632080630001,12.9781420796,0 77.6061701653,12.9781878108,0 77.6059394422,12.9782672122,0 77.6056795471,12.9783540754,0 77.6055022212,12.9784120251,0 77.6050552772,12.9785593263,0 77.604697014,12.9786794448,0 77.60432898969999,12.9787984646,0 77.60387111350001,12.9789494591,0 77.6035715181,12.979046365,0 77.6034592892,12.9790742639,0 77.6034409337,12.9790788438,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

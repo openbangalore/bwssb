@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from BTR GLR Inlet to Magadi road-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet from BTR GLR Inlet to Magadi road</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5678624176,12.9478765108,0 77.5678472104,12.9491837059,0 77.56777119100001,12.9504060507,0 77.5677058105,12.9525078728,0 77.567639454,12.9545935338,0 77.5675536017,12.9567521967,0 77.5675243542,12.9570979888,0 77.5670379755,12.9570850967,0 77.56550568350001,12.9570444754,0 77.56479633870001,12.9570256674,0 77.5622723641,12.9569522922,0 77.562113385,12.9569472753,0 77.5620601615,12.9595880147,0 77.5620437035,12.9600560249,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

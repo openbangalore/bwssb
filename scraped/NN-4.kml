@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NN-4.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.58008086140001,12.9368201322,0 77.579918343,12.9369593601,0 77.5797122127,12.9372004369,0 77.57956874049999,12.937373007,0 77.5793636236,12.9376178981,0 77.57923567749999,12.9377836215,0 77.5790046556,12.9380689271,0 77.57884877639999,12.9382674357,0 77.57867738020001,12.938473747,0 77.578146038,12.9391310962,0 77.5777879226,12.9395706419,0 77.57694969950001,12.9405669913,0 77.57643801659999,12.94057683,0 77.5749057548,12.9405812134,0 77.57388235010001,12.9405972966,0 77.5738320088,12.9407382286,0 77.57382239019999,12.9412851233,0 77.5738186392,12.942106854,0 77.573401361,12.9421139623,0 77.5730600807,12.9421053797,0 77.57193919460001,12.9421224186,0 77.5716132667,12.9421256345,0 77.5700960241,12.94211072,0 77.57010643220001,12.9419373143,0 77.5695700813,12.9419186985,0 77.5695782855,12.9415301795,0 77.5687986181,12.9415498164,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

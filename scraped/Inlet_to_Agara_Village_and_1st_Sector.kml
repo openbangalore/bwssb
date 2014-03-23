@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inlet to Agara Village and 1st Sector.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Inlet to Agara Village and 1st Sector</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6519666944,12.9121457211,0 77.6519198492,12.9121559869,0 77.65192267080001,12.9126596316,0 77.6519065554,12.9137307125,0 77.6518804614,12.914564728,0 77.651844631,12.9154208476,0 77.6518229078,12.9157242502,0 77.6517971162,12.9163893361,0 77.65180252170001,12.9166266682,0 77.6518172128,12.917073957,0 77.6518258616,12.9174210614,0 77.65181590330001,12.9176583291,0 77.6517673659,12.9187272941,0 77.6516999461,12.9198747718,0 77.65167077380001,12.920719479,0 77.6516426813,12.921252519,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

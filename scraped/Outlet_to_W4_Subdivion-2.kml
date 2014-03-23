@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet to W4 Subdivion-2.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet to W4 Subdivion</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5355366311,12.9882356679,0 77.53554123240001,12.9882505926,0 77.535541825,12.9882525139,0 77.535552068,12.9882857412,0 77.5358739843,12.9882407656,0 77.5360863777,12.9882123976,0 77.5363511131,12.9881775429,0 77.5366998033,12.98812872,0 77.5368961973,12.9881045462,0 77.5369017699,12.9881038729,0 77.5371155089,12.988078046,0 77.5371319364,12.9880754959,0 77.5374454065,12.988038968,0 77.53752431549999,12.9880319958,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

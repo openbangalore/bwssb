@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>1200MM DIA OUTLET FROM HEGGANAHALLI TOWARDS KENGERI &amp; RR NAGARA.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>1200MM DIA OUTLET FROM HEGGANAHALLI TOWARDS KENGERI &amp; RR NAGARA</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.49566613410001,12.9455340476,0 77.4953841423,12.9451160436,0 77.49513971019999,12.9447388902,0 77.4947092327,12.9440348218,0 77.4944082463,12.9434848964,0 77.49406605519999,12.9427740049,0 77.493794435,12.9421132359,0 77.493585702,12.9416490823,0 77.4935491478,12.9415167189,0 77.49336977830001,12.9410744358,0 77.4932163842,12.9406605508,0 77.49304587570001,12.939750797,0 77.4929097383,12.9389273704,0 77.4928157146,12.9380497542,0 77.4924186091,12.9354897197,0 77.4923294581,12.9351021124,0 77.4922104395,12.9347745535,0 77.49197649849999,12.9345317608,0 77.4917295425,12.9342054239,0 77.4917082986,12.9339068119,0 77.49152764679999,12.9335081256,0 77.4912557896,12.9331282391,0 77.4908480647,12.9325643844,0 77.4906750498,12.932321008,0 77.4901469651,12.9319077085,0 77.4900579384,12.931532051,0 77.48994596590001,12.9313000439,0 77.48885830019999,12.9315972867,0 77.4883531967,12.9317369427,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

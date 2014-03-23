@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet from KG Tower GLR Towards Jayamahal Surrouding area-2.kml</name>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Outlet from KG Tower GLR Towards Jayamahal Surrouding area</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.5937967742,13.0052318577,0 77.5941489082,13.004969131,0 77.59495467479999,13.004394564,0 77.595429709,13.004013335,0 77.59616286959999,13.0034896885,0 77.59666043350001,13.0031656006,0 77.5970428298,13.0030183539,0 77.5977849006,13.0026487911,0 77.5987045107,13.0021232726,0 77.5992201989,13.0017846573,0 77.5993492777,13.0015395509,0 77.5996599563,13.0004751331,0 77.6000578547,12.9993596448,0 77.600301534,12.9988839188,0 77.6008838896,12.997748858,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

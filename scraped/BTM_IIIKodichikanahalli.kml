@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BTM_IIIKodichikanahalli.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Service Station: BTM III/Kodichikanahalli</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#Service_station">
+				<SimpleData name="Name">BTM III/Kodichikanahalli</SimpleData>
+				<SimpleData name="OBJECTID_1">41</SimpleData>
+				<SimpleData name="DIVISIONID">1.00000000000</SimpleData>
+				<SimpleData name="SERVICESTA">3.00000000000</SimpleData>
+				<SimpleData name="SHAPE_LENG">0.00000000000</SimpleData>
+				<SimpleData name="SSID">S3C</SimpleData>
+				<SimpleData name="Shape_Le_1">18234.03568110000</SimpleData>
+				<SimpleData name="Shape_Area">16951639.61050000000</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						77.60027053955075,12.89772237250434,0 77.60058708934875,12.89874583699731,0 77.60092118545319,12.89999602893609,0 77.60097139744518,12.90017621449966,0 77.60105660521859,12.90079083236423,0 77.60108506639797,12.90114966439116,0 77.60111886295877,12.90163492407357,0 77.60113158570078,12.90180757974366,0 77.60118243583696,12.90210520580411,0 77.60122044462706,12.90227422100212,0 77.60151110777404,12.90344316678347,0 77.60225098946812,12.90341248072475,0 77.6035183651,12.90335146643806,0 77.60630517890861,12.90321728147204,0 77.60900276896518,12.90308736442026,0 77.60898038903271,12.90092956224719,0 77.60702438120276,12.89724169341624,0 77.61102584418178,12.89692509784403,0 77.61123019964727,12.89487570219146,0 77.61303322502182,12.89469169195077,0 77.61290894150648,12.89358625651445,0 77.61341480076435,12.8934152009244,0 77.61300221155585,12.89170397349174,0 77.61221034796512,12.89149054671147,0 77.61174883580964,12.89049914444646,0 77.61112616877418,12.89028402428598,0 77.6109368973754,12.88834922494873,0 77.60873626649675,12.88826050719021,0 77.60609075466459,12.88878487765718,0 77.6038440143878,12.88969259452295,0 77.60531178547949,12.89526673316047,0 77.60027053955075,12.89772237250434,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

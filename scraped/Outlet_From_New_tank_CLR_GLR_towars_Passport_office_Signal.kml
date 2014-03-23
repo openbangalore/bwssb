@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Outlet From New tank CLR GLR towars Passport office Signal.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Outlet From New tank CLR GLR towars Passport office Signal</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.6126442061,12.9616961687,0 77.6124981717,12.9606725569,0 77.61241889119999,12.9600817502,0 77.61228429640001,12.9588610533,0 77.6121605673,12.9577472136,0 77.61203794950001,12.9567397314,0 77.6120008882,12.9564017198,0 77.61188365939999,12.9559668174,0 77.6122773404,12.9558576942,0 77.6128069387,12.9556946198,0 77.61311304,12.9556007162,0 77.6134380876,12.9554540352,0 77.61409738019999,12.9551079931,0 77.6145487452,12.9549217979,0 77.61511205639999,12.954720136,0 77.6160442743,12.9543713488,0 77.6168210286,12.954071927,0 77.6173450456,12.9538419721,0 77.6176841094,12.9536377785,0 77.6186483135,12.9531440484,0 77.6191142416,12.9529529194,0 77.6200087175,12.9524921555,0 77.6211722541,12.9518924344,0 77.6213756736,12.9517684819,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>From Kothnoordinne GLR to HSBC.kml</name>
+	<Style id="line10">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="line1">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>From Kothnoordinne GLR to HSBC</name>
+		<description>Unknown Line Type</description>
+		<styleUrl>#line11</styleUrl>
+		<LineString>
+			<coordinates>
+				77.58458247279999,12.8740664445,0 77.5850164032,12.8740908467,0 77.5851596319,12.8738025885,0 77.5849210203,12.871916549,0 77.58538143600001,12.8716729682,0 77.585211571,12.8705511695,0 77.58744360820001,12.8696327469,0 77.58784458549999,12.869533172,0 77.58935064470001,12.8702832094,0 77.5915176566,12.8713374461,0 77.5922956177,12.8711743757,0 77.59347811719999,12.8712582864,0 77.5936652508,12.8716866982,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
